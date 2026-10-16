@@ -1,0 +1,3746 @@
+[
+  {
+    "id": 0,
+    "name": "Blank",
+    "description": "No skill",
+    "is_hidden": false
+  },
+  {
+    "id": 1,
+    "name": "Agi",
+    "description": "Deals light Fire damage to 1 foe.",
+    "is_hidden": false
+  },
+  {
+    "id": 2,
+    "name": "Agilao",
+    "description": "Deals medium Fire damage to 1 foe.",
+    "is_hidden": false
+  },
+  {
+    "id": 3,
+    "name": "Agidyne",
+    "description": "Deals heavy Fire damage to 1 foe.",
+    "is_hidden": false
+  },
+  {
+    "id": 4,
+    "name": "Maragi",
+    "description": "Deals light Fire damage to all foes.",
+    "is_hidden": false
+  },
+  {
+    "id": 5,
+    "name": "Maragilao",
+    "description": "Deals medium Fire damage to all foes.",
+    "is_hidden": false
+  },
+  {
+    "id": 6,
+    "name": "Maragidyne",
+    "description": "Deals heavy Fire damage to all foes.",
+    "is_hidden": false
+  },
+  {
+    "id": 7,
+    "name": "Maralagidyne",
+    "description": "Deals severe Fire damage to all foes.",
+    "is_hidden": false
+  },
+  {
+    "id": 8,
+    "name": "0x008",
+    "description": "008",
+    "is_hidden": true
+  },
+  {
+    "id": 9,
+    "name": "Ragnarok",
+    "description": "Deals severe Fire damage to 1 foe.",
+    "is_hidden": false
+  },
+  {
+    "id": 10,
+    "name": "Garu",
+    "description": "Deals light Wind damage to 1 foe.",
+    "is_hidden": false
+  },
+  {
+    "id": 11,
+    "name": "Garula",
+    "description": "Deals medium Wind damage to 1 foe.",
+    "is_hidden": false
+  },
+  {
+    "id": 12,
+    "name": "Garudyne",
+    "description": "Deals heavy Wind damage to 1 foe.",
+    "is_hidden": false
+  },
+  {
+    "id": 13,
+    "name": "Magaru",
+    "description": "Deals light Wind damage to all foes.",
+    "is_hidden": false
+  },
+  {
+    "id": 14,
+    "name": "Magarula",
+    "description": "Deals medium Wind damage to all foes.",
+    "is_hidden": false
+  },
+  {
+    "id": 15,
+    "name": "Magarudyne",
+    "description": "Deals heavy Wind damage to all foes.",
+    "is_hidden": false
+  },
+  {
+    "id": 16,
+    "name": "0x010",
+    "description": "010",
+    "is_hidden": true
+  },
+  {
+    "id": 17,
+    "name": "0x011",
+    "description": "011",
+    "is_hidden": true
+  },
+  {
+    "id": 18,
+    "name": "Panta Rhei",
+    "description": "Deals severe Wind damage to 1 foe.",
+    "is_hidden": false
+  },
+  {
+    "id": 19,
+    "name": "Bufu",
+    "description": "Deals light Ice damage/Freezes 1 foe.",
+    "is_hidden": false
+  },
+  {
+    "id": 20,
+    "name": "Bufula",
+    "description": "Deals medium Ice damage/Freezes 1 foe.",
+    "is_hidden": false
+  },
+  {
+    "id": 21,
+    "name": "Bufudyne",
+    "description": "Deals heavy Ice damage/Freezes 1 foe.",
+    "is_hidden": false
+  },
+  {
+    "id": 22,
+    "name": "Mabufu",
+    "description": "Deals light Ice damage/Freezes all foes.",
+    "is_hidden": false
+  },
+  {
+    "id": 23,
+    "name": "Mabufula",
+    "description": "Deals medium Ice dmg/Freezes all foes.",
+    "is_hidden": false
+  },
+  {
+    "id": 24,
+    "name": "Mabufudyne",
+    "description": "Deals heavy Ice damage/Freezes all foes.",
+    "is_hidden": false
+  },
+  {
+    "id": 25,
+    "name": "0x019",
+    "description": "019",
+    "is_hidden": true
+  },
+  {
+    "id": 26,
+    "name": "0x01A",
+    "description": "01A",
+    "is_hidden": true
+  },
+  {
+    "id": 27,
+    "name": "Niflheim",
+    "description": "Deals severe Ice dmg/Freezes 1 foe.",
+    "is_hidden": false
+  },
+  {
+    "id": 28,
+    "name": "Zio",
+    "description": "Deals light Elec damage/Shocks 1 foe.",
+    "is_hidden": false
+  },
+  {
+    "id": 29,
+    "name": "Zionga",
+    "description": "Deals medium Elec damage/Shocks 1 foe.",
+    "is_hidden": false
+  },
+  {
+    "id": 30,
+    "name": "Ziodyne",
+    "description": "Deals heavy Elec damage/Shocks 1 foe.",
+    "is_hidden": false
+  },
+  {
+    "id": 31,
+    "name": "Mazio",
+    "description": "Deals light Elec dmg/Shocks all foes.",
+    "is_hidden": false
+  },
+  {
+    "id": 32,
+    "name": "Mazionga",
+    "description": "Deals medium Elec dmg/Shocks all foes.",
+    "is_hidden": false
+  },
+  {
+    "id": 33,
+    "name": "Maziodyne",
+    "description": "Deals heavy Elec dmg/Shocks all foes.",
+    "is_hidden": false
+  },
+  {
+    "id": 34,
+    "name": "0x022",
+    "description": "022",
+    "is_hidden": true
+  },
+  {
+    "id": 35,
+    "name": "0x023",
+    "description": "023",
+    "is_hidden": true
+  },
+  {
+    "id": 36,
+    "name": "Thunder Reign",
+    "description": "Deals severe Elec damage/Shocks 1 foe.",
+    "is_hidden": false
+  },
+  {
+    "id": 37,
+    "name": "Megido",
+    "description": "Deals medium Almighty damage to all foes.",
+    "is_hidden": false
+  },
+  {
+    "id": 38,
+    "name": "Megidola",
+    "description": "Deals heavy Almighty damage to all foes.",
+    "is_hidden": false
+  },
+  {
+    "id": 39,
+    "name": "Megidolaon",
+    "description": "Deals severe Almighty damage to all foes.",
+    "is_hidden": false
+  },
+  {
+    "id": 40,
+    "name": "Last Resort",
+    "description": "Deals Almighty dmg (50% of HP) to all, but...",
+    "is_hidden": true
+  },
+  {
+    "id": 41,
+    "name": "0x029",
+    "description": "029",
+    "is_hidden": true
+  },
+  {
+    "id": 42,
+    "name": "0x02A",
+    "description": "02A",
+    "is_hidden": true
+  },
+  {
+    "id": 43,
+    "name": "Black Viper",
+    "description": "Deals massive Almighty damage to 1 foe.",
+    "is_hidden": false
+  },
+  {
+    "id": 44,
+    "name": "Morning Star",
+    "description": "Deals massive Almighty damage to all foes.",
+    "is_hidden": false
+  },
+  {
+    "id": 45,
+    "name": "Hama",
+    "description": "Light: chance of instant kill, 1 foe.",
+    "is_hidden": false
+  },
+  {
+    "id": 46,
+    "name": "Mahama",
+    "description": "Light: chance of instant kill, all foes.",
+    "is_hidden": false
+  },
+  {
+    "id": 47,
+    "name": "Hamaon",
+    "description": "Light: instant kill, 1 foe (high odds).",
+    "is_hidden": false
+  },
+  {
+    "id": 48,
+    "name": "Mahamaon",
+    "description": "Light: instant kill, all foes (high odds).",
+    "is_hidden": false
+  },
+  {
+    "id": 49,
+    "name": "0x031",
+    "description": "031",
+    "is_hidden": true
+  },
+  {
+    "id": 50,
+    "name": "Samsara",
+    "description": "Light: instant kill, all foes (very high).",
+    "is_hidden": false
+  },
+  {
+    "id": 51,
+    "name": "Mudo",
+    "description": "Darkness: chance of instant kill, 1 foe.",
+    "is_hidden": false
+  },
+  {
+    "id": 52,
+    "name": "Mamudo",
+    "description": "Darkness: chance of instant kill, all foes.",
+    "is_hidden": false
+  },
+  {
+    "id": 53,
+    "name": "Mudoon",
+    "description": "Darkness: instant kill, 1 foe (high odds).",
+    "is_hidden": false
+  },
+  {
+    "id": 54,
+    "name": "Mamudoon",
+    "description": "Darkness: instant kill, all foes (high odds).",
+    "is_hidden": false
+  },
+  {
+    "id": 55,
+    "name": "0x037",
+    "description": "037",
+    "is_hidden": true
+  },
+  {
+    "id": 56,
+    "name": "Die for Me!",
+    "description": "Darkness: instant kill, all foes (very high).",
+    "is_hidden": false
+  },
+  {
+    "id": 57,
+    "name": "Marin Karin",
+    "description": "Charms 1 foe.",
+    "is_hidden": false
+  },
+  {
+    "id": 58,
+    "name": "Sexy Dance",
+    "description": "Charms all foes.",
+    "is_hidden": false
+  },
+  {
+    "id": 59,
+    "name": "Bewilder",
+    "description": "Distresses 1 foe.",
+    "is_hidden": false
+  },
+  {
+    "id": 60,
+    "name": "Eerie Sound",
+    "description": "Distresses all foes.",
+    "is_hidden": false
+  },
+  {
+    "id": 61,
+    "name": "Pulinpa",
+    "description": "Makes 1 foe Panic.",
+    "is_hidden": false
+  },
+  {
+    "id": 62,
+    "name": "Tentarafoo",
+    "description": "Makes all foes Panic.",
+    "is_hidden": false
+  },
+  {
+    "id": 63,
+    "name": "Evil Touch",
+    "description": "Instills Fear in 1 foe.",
+    "is_hidden": false
+  },
+  {
+    "id": 64,
+    "name": "Evil Smile",
+    "description": "Instills Fear in all foes.",
+    "is_hidden": false
+  },
+  {
+    "id": 65,
+    "name": "Ghastly Wail",
+    "description": "Instantly kills 1 foe who is fearful.",
+    "is_hidden": false
+  },
+  {
+    "id": 66,
+    "name": "Provoke",
+    "description": "Enrages 1 foe.",
+    "is_hidden": false
+  },
+  {
+    "id": 67,
+    "name": "Infuriate",
+    "description": "Enrages all foes.",
+    "is_hidden": false
+  },
+  {
+    "id": 68,
+    "name": "Poisma",
+    "description": "Poisons 1 foe.",
+    "is_hidden": false
+  },
+  {
+    "id": 69,
+    "name": "Poison Mist",
+    "description": "Poisons all foes.",
+    "is_hidden": false
+  },
+  {
+    "id": 70,
+    "name": "Virus Breath",
+    "description": "Deals dmg (25% of HP)/Poisons all foes.",
+    "is_hidden": false
+  },
+  {
+    "id": 71,
+    "name": "0x047",
+    "description": "047",
+    "is_hidden": true
+  },
+  {
+    "id": 72,
+    "name": "0x048",
+    "description": "048",
+    "is_hidden": true
+  },
+  {
+    "id": 73,
+    "name": "Foul Breath",
+    "description": "Ailment susceptibility up, 1 foe (temp).",
+    "is_hidden": false
+  },
+  {
+    "id": 74,
+    "name": "Stagnant Air",
+    "description": "Ailment susceptibility up, all (temp).",
+    "is_hidden": false
+  },
+  {
+    "id": 75,
+    "name": "Life Drain",
+    "description": "Drains foe's HP.",
+    "is_hidden": false
+  },
+  {
+    "id": 76,
+    "name": "Spirit Drain",
+    "description": "Drains foe's SP.",
+    "is_hidden": false
+  },
+  {
+    "id": 77,
+    "name": "0x04D",
+    "description": "04D",
+    "is_hidden": true
+  },
+  {
+    "id": 78,
+    "name": "0x04E",
+    "description": "04E",
+    "is_hidden": true
+  },
+  {
+    "id": 79,
+    "name": "0x04F",
+    "description": "04F",
+    "is_hidden": true
+  },
+  {
+    "id": 80,
+    "name": "Maragidyne",
+    "description": "050",
+    "is_hidden": true
+  },
+  {
+    "id": 81,
+    "name": "Magarudyne",
+    "description": "051",
+    "is_hidden": true
+  },
+  {
+    "id": 82,
+    "name": "Mabufudyne",
+    "description": "052",
+    "is_hidden": true
+  },
+  {
+    "id": 83,
+    "name": "Maziodyne",
+    "description": "053",
+    "is_hidden": true
+  },
+  {
+    "id": 84,
+    "name": "Megidolaon",
+    "description": "054",
+    "is_hidden": true
+  },
+  {
+    "id": 85,
+    "name": "Mahamaon",
+    "description": "055",
+    "is_hidden": true
+  },
+  {
+    "id": 86,
+    "name": "Mamudoon",
+    "description": "056",
+    "is_hidden": true
+  },
+  {
+    "id": 87,
+    "name": "Sexy Dance",
+    "description": "057",
+    "is_hidden": true
+  },
+  {
+    "id": 88,
+    "name": "Eerie Sound",
+    "description": "058",
+    "is_hidden": true
+  },
+  {
+    "id": 89,
+    "name": "Tentarafoo",
+    "description": "059",
+    "is_hidden": true
+  },
+  {
+    "id": 90,
+    "name": "Evil Smile",
+    "description": "05A",
+    "is_hidden": true
+  },
+  {
+    "id": 91,
+    "name": "Poison Mist",
+    "description": "05B",
+    "is_hidden": true
+  },
+  {
+    "id": 92,
+    "name": "Holy Arrow",
+    "description": "05C",
+    "is_hidden": true
+  },
+  {
+    "id": 93,
+    "name": "Life Drain",
+    "description": "05D",
+    "is_hidden": true
+  },
+  {
+    "id": 94,
+    "name": "Spirit Drain",
+    "description": "05E",
+    "is_hidden": true
+  },
+  {
+    "id": 95,
+    "name": "0x05F",
+    "description": "05F",
+    "is_hidden": true
+  },
+  {
+    "id": 96,
+    "name": "Death",
+    "description": "060",
+    "is_hidden": true
+  },
+  {
+    "id": 97,
+    "name": "Yell",
+    "description": "061",
+    "is_hidden": true
+  },
+  {
+    "id": 98,
+    "name": "Yell",
+    "description": "062",
+    "is_hidden": true
+  },
+  {
+    "id": 99,
+    "name": "Death",
+    "description": "063",
+    "is_hidden": true
+  },
+  {
+    "id": 100,
+    "name": "Death",
+    "description": "064",
+    "is_hidden": true
+  },
+  {
+    "id": 101,
+    "name": "Death",
+    "description": "065",
+    "is_hidden": true
+  },
+  {
+    "id": 102,
+    "name": "Moonless Gown",
+    "description": "066",
+    "is_hidden": true
+  },
+  {
+    "id": 103,
+    "name": "Moonless Gown",
+    "description": "067",
+    "is_hidden": true
+  },
+  {
+    "id": 104,
+    "name": "Summon",
+    "description": "068",
+    "is_hidden": true
+  },
+  {
+    "id": 105,
+    "name": "Slash Attack",
+    "description": "069",
+    "is_hidden": true
+  },
+  {
+    "id": 106,
+    "name": "Pierce Attack",
+    "description": "06A",
+    "is_hidden": true
+  },
+  {
+    "id": 107,
+    "name": "Strike Attack",
+    "description": "06B",
+    "is_hidden": true
+  },
+  {
+    "id": 108,
+    "name": "Yell",
+    "description": "06C",
+    "is_hidden": true
+  },
+  {
+    "id": 109,
+    "name": "Pierce Attack",
+    "description": "06D",
+    "is_hidden": true
+  },
+  {
+    "id": 110,
+    "name": "Fire Attack",
+    "description": "06E",
+    "is_hidden": true
+  },
+  {
+    "id": 111,
+    "name": "Almighty Attack",
+    "description": "06F",
+    "is_hidden": true
+  },
+  {
+    "id": 112,
+    "name": "Bash",
+    "description": "Deals light Strike damage to 1 foe.",
+    "is_hidden": false
+  },
+  {
+    "id": 113,
+    "name": "Assault Dive",
+    "description": "Deals light Strike damage to 1 foe.",
+    "is_hidden": false
+  },
+  {
+    "id": 114,
+    "name": "Kill Rush",
+    "description": "Medium Strike dmg to 1 foe (multi-hit).",
+    "is_hidden": false
+  },
+  {
+    "id": 115,
+    "name": "Swift Strike",
+    "description": "Light Strike dmg to all foes (multi-hit).",
+    "is_hidden": false
+  },
+  {
+    "id": 116,
+    "name": "Sonic Punch",
+    "description": "Deals light Strike damage to 1 foe.",
+    "is_hidden": false
+  },
+  {
+    "id": 117,
+    "name": "Heat Wave",
+    "description": "Deals medium Strike damage to all foes.",
+    "is_hidden": false
+  },
+  {
+    "id": 118,
+    "name": "Gigantic Fist",
+    "description": "Deals heavy Strike damage to 1 foe.",
+    "is_hidden": false
+  },
+  {
+    "id": 119,
+    "name": "Akasha Arts",
+    "description": "Deals heavy Strike damage to all foes.",
+    "is_hidden": false
+  },
+  {
+    "id": 120,
+    "name": "God's Hand",
+    "description": "Deals severe Strike damage to 1 foe.",
+    "is_hidden": false
+  },
+  {
+    "id": 121,
+    "name": "Cleave",
+    "description": "Deals light Slash damage to 1 foe.",
+    "is_hidden": false
+  },
+  {
+    "id": 122,
+    "name": "Fatal End",
+    "description": "Deals medium Slash damage to 1 foe.",
+    "is_hidden": false
+  },
+  {
+    "id": 123,
+    "name": "Getsu-ei",
+    "description": "Deals med Slash dmg to 1 foe. Full moon bonus.",
+    "is_hidden": false
+  },
+  {
+    "id": 124,
+    "name": "Zan-ei",
+    "description": "Deals med Slash dmg to 1 foe. New moon bonus.",
+    "is_hidden": false
+  },
+  {
+    "id": 125,
+    "name": "Mighty Swing",
+    "description": "Deals medium Slash damage to 1 foe.",
+    "is_hidden": false
+  },
+  {
+    "id": 126,
+    "name": "Double Fangs",
+    "description": "Deals light Pierce damage to 1 foe 2x.",
+    "is_hidden": false
+  },
+  {
+    "id": 127,
+    "name": "Blade of Fury",
+    "description": "Medium Slash damage to all foes.",
+    "is_hidden": false
+  },
+  {
+    "id": 128,
+    "name": "Deathbound",
+    "description": "Deals heavy Slash damage to all foes.",
+    "is_hidden": false
+  },
+  {
+    "id": 129,
+    "name": "Tempest Slash",
+    "description": "Heavy Slash dmg to 1 foe (multi-hit).",
+    "is_hidden": false
+  },
+  {
+    "id": 130,
+    "name": "Heaven's Blade",
+    "description": "Deals heavy Slash damage to 1 foe.",
+    "is_hidden": false
+  },
+  {
+    "id": 131,
+    "name": "Pralaya",
+    "description": "Deals severe Pierce dmg/Frightens all foes.",
+    "is_hidden": false
+  },
+  {
+    "id": 132,
+    "name": "Power Slash",
+    "description": "Deals light Slash damage to 1 foe.",
+    "is_hidden": false
+  },
+  {
+    "id": 133,
+    "name": "Gale Slash",
+    "description": "Deals medium Slash damage to all foes.",
+    "is_hidden": false
+  },
+  {
+    "id": 134,
+    "name": "Brave Blade",
+    "description": "Deals heavy Slash damage to 1 foe.",
+    "is_hidden": false
+  },
+  {
+    "id": 135,
+    "name": "Herculean Strike",
+    "description": "Deals medium Slash damage to all foes.",
+    "is_hidden": false
+  },
+  {
+    "id": 136,
+    "name": "Vicious Strike",
+    "description": "Deals heavy Strike damage to all foes.",
+    "is_hidden": false
+  },
+  {
+    "id": 137,
+    "name": "Single Shot",
+    "description": "Deals light Pierce damage to 1 foe.",
+    "is_hidden": false
+  },
+  {
+    "id": 138,
+    "name": "Twin Shot",
+    "description": "Deals medium Pierce damage to 1 foe 2x.",
+    "is_hidden": false
+  },
+  {
+    "id": 139,
+    "name": "Holy Arrow",
+    "description": "Deals light Pierce damage/Charms 1 foe.",
+    "is_hidden": false
+  },
+  {
+    "id": 140,
+    "name": "Torrent Shot",
+    "description": "Light Pierce damage to 1 foe (multi-hit).",
+    "is_hidden": false
+  },
+  {
+    "id": 141,
+    "name": "Arrow Rain",
+    "description": "Deals medium Pierce damage to all foes 2x.",
+    "is_hidden": false
+  },
+  {
+    "id": 142,
+    "name": "Myriad Arrows",
+    "description": "Medium Pierce dmg to all foes (multi-hit).",
+    "is_hidden": false
+  },
+  {
+    "id": 143,
+    "name": "Primal Force",
+    "description": "Deals severe Pierce damage to 1 foe.",
+    "is_hidden": false
+  },
+  {
+    "id": 144,
+    "name": "Vorpal Blade",
+    "description": "Heavy Slash dmg to all foes. \"Great\" bonus.",
+    "is_hidden": false
+  },
+  {
+    "id": 145,
+    "name": "Weary Thrust",
+    "description": "Heavy Strike damage to 1 foe. \"Tired\" bonus.",
+    "is_hidden": false
+  },
+  {
+    "id": 146,
+    "name": "Cruel Attack",
+    "description": "Med Pierce dmg, 1 foe. Knocked Down bonus.",
+    "is_hidden": false
+  },
+  {
+    "id": 147,
+    "name": "Vile Assault",
+    "description": "Heavy Pierce dmg, 1 foe. Knocked Down bonus.",
+    "is_hidden": false
+  },
+  {
+    "id": 148,
+    "name": "Poison Arrow",
+    "description": "Deals heavy Pierce dmg to 1 foe. Inflicts poison.",
+    "is_hidden": false
+  },
+  {
+    "id": 149,
+    "name": "Weary Thrust",
+    "description": "Deals heavy Strike damage to 1 foe.",
+    "is_hidden": true
+  },
+  {
+    "id": 150,
+    "name": "Vorpal Blade",
+    "description": "Deals heavy Slash damage to all foes.",
+    "is_hidden": true
+  },
+  {
+    "id": 151,
+    "name": "Junpei Co-Op",
+    "description": "097",
+    "is_hidden": true
+  },
+  {
+    "id": 152,
+    "name": "Yukari Co-Op",
+    "description": "098",
+    "is_hidden": true
+  },
+  {
+    "id": 153,
+    "name": "Akihiko Co-Op",
+    "description": "099",
+    "is_hidden": true
+  },
+  {
+    "id": 154,
+    "name": "Mitsuru Co-Op",
+    "description": "09A",
+    "is_hidden": true
+  },
+  {
+    "id": 155,
+    "name": "Aigis Co-Op",
+    "description": "09B",
+    "is_hidden": true
+  },
+  {
+    "id": 156,
+    "name": "Ken Co-Op",
+    "description": "09C",
+    "is_hidden": true
+  },
+  {
+    "id": 157,
+    "name": "Shinjiro Co-Op",
+    "description": "09D",
+    "is_hidden": true
+  },
+  {
+    "id": 158,
+    "name": "Koromaru Co-Op",
+    "description": "09E",
+    "is_hidden": true
+  },
+  {
+    "id": 159,
+    "name": "0x09F",
+    "description": "09F",
+    "is_hidden": true
+  },
+  {
+    "id": 160,
+    "name": "+charm(low)",
+    "description": "0A0",
+    "is_hidden": true
+  },
+  {
+    "id": 161,
+    "name": "+charm(med)",
+    "description": "0A1",
+    "is_hidden": true
+  },
+  {
+    "id": 162,
+    "name": "+charm(high)",
+    "description": "0A2",
+    "is_hidden": true
+  },
+  {
+    "id": 163,
+    "name": "+distress(low)",
+    "description": "0A3",
+    "is_hidden": true
+  },
+  {
+    "id": 164,
+    "name": "+distress(med)",
+    "description": "0A4",
+    "is_hidden": true
+  },
+  {
+    "id": 165,
+    "name": "+distress(high)",
+    "description": "0A5",
+    "is_hidden": true
+  },
+  {
+    "id": 166,
+    "name": "+panic(low)",
+    "description": "0A6",
+    "is_hidden": true
+  },
+  {
+    "id": 167,
+    "name": "+panic(med)",
+    "description": "0A7",
+    "is_hidden": true
+  },
+  {
+    "id": 168,
+    "name": "+panic(high)",
+    "description": "0A8",
+    "is_hidden": true
+  },
+  {
+    "id": 169,
+    "name": "+fear(low)",
+    "description": "0A9",
+    "is_hidden": true
+  },
+  {
+    "id": 170,
+    "name": "+fear(med)",
+    "description": "0AA",
+    "is_hidden": true
+  },
+  {
+    "id": 171,
+    "name": "+fear(high)",
+    "description": "0AB",
+    "is_hidden": true
+  },
+  {
+    "id": 172,
+    "name": "+rage(low)",
+    "description": "0AC",
+    "is_hidden": true
+  },
+  {
+    "id": 173,
+    "name": "+rage(med)",
+    "description": "0AD",
+    "is_hidden": true
+  },
+  {
+    "id": 174,
+    "name": "+rage(high)",
+    "description": "0AE",
+    "is_hidden": true
+  },
+  {
+    "id": 175,
+    "name": "+poison(low)",
+    "description": "0AF",
+    "is_hidden": true
+  },
+  {
+    "id": 176,
+    "name": "0x0B0",
+    "description": "0B0",
+    "is_hidden": true
+  },
+  {
+    "id": 177,
+    "name": "0x0B1",
+    "description": "0B1",
+    "is_hidden": true
+  },
+  {
+    "id": 178,
+    "name": "0x0B2",
+    "description": "0B2",
+    "is_hidden": true
+  },
+  {
+    "id": 179,
+    "name": "0x0B3",
+    "description": "0B3",
+    "is_hidden": true
+  },
+  {
+    "id": 180,
+    "name": "0x0B4",
+    "description": "0B4",
+    "is_hidden": true
+  },
+  {
+    "id": 181,
+    "name": "0x0B5",
+    "description": "0B5",
+    "is_hidden": true
+  },
+  {
+    "id": 182,
+    "name": "0x0B6",
+    "description": "0B6",
+    "is_hidden": true
+  },
+  {
+    "id": 183,
+    "name": "0x0B7",
+    "description": "0B7",
+    "is_hidden": true
+  },
+  {
+    "id": 184,
+    "name": "0x0B8",
+    "description": "0B8",
+    "is_hidden": true
+  },
+  {
+    "id": 185,
+    "name": "0x0B9",
+    "description": "0B9",
+    "is_hidden": true
+  },
+  {
+    "id": 186,
+    "name": "0x0BA",
+    "description": "0BA",
+    "is_hidden": true
+  },
+  {
+    "id": 187,
+    "name": "0x0BB",
+    "description": "0BB",
+    "is_hidden": true
+  },
+  {
+    "id": 188,
+    "name": "0x0BC",
+    "description": "0BC",
+    "is_hidden": true
+  },
+  {
+    "id": 189,
+    "name": "0x0BD",
+    "description": "0BD",
+    "is_hidden": true
+  },
+  {
+    "id": 190,
+    "name": "0x0BE",
+    "description": "0BE",
+    "is_hidden": true
+  },
+  {
+    "id": 191,
+    "name": "0x0BF",
+    "description": "0BF",
+    "is_hidden": true
+  },
+  {
+    "id": 192,
+    "name": "Dia",
+    "description": "Slightly restores 1 ally's HP.",
+    "is_hidden": false
+  },
+  {
+    "id": 193,
+    "name": "Diarama",
+    "description": "Moderately restores 1 ally's HP.",
+    "is_hidden": false
+  },
+  {
+    "id": 194,
+    "name": "Diarahan",
+    "description": "Fully restores 1 ally's HP.",
+    "is_hidden": false
+  },
+  {
+    "id": 195,
+    "name": "Media",
+    "description": "Slightly restores party's HP.",
+    "is_hidden": false
+  },
+  {
+    "id": 196,
+    "name": "Mediarama",
+    "description": "Moderately restores party's HP.",
+    "is_hidden": false
+  },
+  {
+    "id": 197,
+    "name": "Mediarahan",
+    "description": "Fully restores party's HP.",
+    "is_hidden": false
+  },
+  {
+    "id": 198,
+    "name": "Salvation",
+    "description": "Fully restores party's HP. Cures ailments.",
+    "is_hidden": false
+  },
+  {
+    "id": 199,
+    "name": "Patra",
+    "description": "Dispels Panic, Fear, and Distress (1 ally).",
+    "is_hidden": false
+  },
+  {
+    "id": 200,
+    "name": "Me Patra",
+    "description": "Dispels Panic, Fear, and Distress (party).",
+    "is_hidden": false
+  },
+  {
+    "id": 201,
+    "name": "Re Patra",
+    "description": "Assists 1 ally who's been Knocked Down.",
+    "is_hidden": false
+  },
+  {
+    "id": 202,
+    "name": "Posumudi",
+    "description": "Neutralizes Poison (1 ally).",
+    "is_hidden": false
+  },
+  {
+    "id": 203,
+    "name": "Amrita",
+    "description": "Cures all ailments (party).",
+    "is_hidden": false
+  },
+  {
+    "id": 204,
+    "name": "Recarm",
+    "description": "Revives an ally, restoring 50% of HP.",
+    "is_hidden": false
+  },
+  {
+    "id": 205,
+    "name": "Samarecarm",
+    "description": "Revives an ally, fully restoring HP.",
+    "is_hidden": false
+  },
+  {
+    "id": 206,
+    "name": "Tarunda",
+    "description": "Decreases 1 foe's Attack.",
+    "is_hidden": false
+  },
+  {
+    "id": 207,
+    "name": "Matarunda",
+    "description": "Decreases all foes' Attack.",
+    "is_hidden": false
+  },
+  {
+    "id": 208,
+    "name": "Sukunda",
+    "description": "Decreases 1 foe's Hit/Evasion rate.",
+    "is_hidden": false
+  },
+  {
+    "id": 209,
+    "name": "Masukunda",
+    "description": "Decreases all foes' Hit/Evasion rate.",
+    "is_hidden": false
+  },
+  {
+    "id": 210,
+    "name": "Rakunda",
+    "description": "Decreases 1 foe's Defense.",
+    "is_hidden": false
+  },
+  {
+    "id": 211,
+    "name": "Marakunda",
+    "description": "Decreases all foes' Defense.",
+    "is_hidden": false
+  },
+  {
+    "id": 212,
+    "name": "Dekunda",
+    "description": "Nullifies stat penalties on party.",
+    "is_hidden": false
+  },
+  {
+    "id": 213,
+    "name": "0x0D5",
+    "description": "0D5",
+    "is_hidden": true
+  },
+  {
+    "id": 214,
+    "name": "Tarukaja",
+    "description": "Increases 1 ally's Attack.",
+    "is_hidden": false
+  },
+  {
+    "id": 215,
+    "name": "Matarukaja",
+    "description": "Increases party's Attack.",
+    "is_hidden": false
+  },
+  {
+    "id": 216,
+    "name": "Sukukaja",
+    "description": "Increases 1 ally's Hit/Evasion rate.",
+    "is_hidden": false
+  },
+  {
+    "id": 217,
+    "name": "Masukukaja",
+    "description": "Increases party's Hit/Evasion rate.",
+    "is_hidden": false
+  },
+  {
+    "id": 218,
+    "name": "Rakukaja",
+    "description": "Increases 1 ally's Defense.",
+    "is_hidden": false
+  },
+  {
+    "id": 219,
+    "name": "Marakukaja",
+    "description": "Increases party's Defense.",
+    "is_hidden": false
+  },
+  {
+    "id": 220,
+    "name": "Power Charge",
+    "description": "Doubles physical damage dealt next turn.",
+    "is_hidden": false
+  },
+  {
+    "id": 221,
+    "name": "Mind Charge",
+    "description": "Doubles magic damage dealt next turn.",
+    "is_hidden": false
+  },
+  {
+    "id": 222,
+    "name": "0x0DE",
+    "description": "0DE",
+    "is_hidden": true
+  },
+  {
+    "id": 223,
+    "name": "Dekaja",
+    "description": "Nullifies stat bonuses on all foes.",
+    "is_hidden": false
+  },
+  {
+    "id": 224,
+    "name": "Tetrakarn",
+    "description": "Barrier that reflects phys dmg 1x per ally.",
+    "is_hidden": false
+  },
+  {
+    "id": 225,
+    "name": "Makarakarn",
+    "description": "Barrier that reflects magic dmg 1x per ally.",
+    "is_hidden": false
+  },
+  {
+    "id": 226,
+    "name": "Rebellion",
+    "description": "Increases Critical Rate (all).",
+    "is_hidden": false
+  },
+  {
+    "id": 227,
+    "name": "Revolution",
+    "description": "Greatly increases Critical Rate (all).",
+    "is_hidden": false
+  },
+  {
+    "id": 228,
+    "name": "0x0E4",
+    "description": "E4",
+    "is_hidden": true
+  },
+  {
+    "id": 229,
+    "name": "Fire Break",
+    "description": "Reduces 1 foe's Fire resistance to average.",
+    "is_hidden": false
+  },
+  {
+    "id": 230,
+    "name": "Ice Break",
+    "description": "Reduces 1 foe's Ice resistance to average.",
+    "is_hidden": false
+  },
+  {
+    "id": 231,
+    "name": "Wind Break",
+    "description": "Reduces 1 foe's Wind resistance to average.",
+    "is_hidden": false
+  },
+  {
+    "id": 232,
+    "name": "Elec Break",
+    "description": "Reduces 1 foe's Elec resistance to average.",
+    "is_hidden": false
+  },
+  {
+    "id": 233,
+    "name": "Traesto",
+    "description": "Enables escape from a dungeon.",
+    "is_hidden": true
+  },
+  {
+    "id": 234,
+    "name": "Trafuri",
+    "description": "Enables escape from most battles.",
+    "is_hidden": false
+  },
+  {
+    "id": 235,
+    "name": "Healing Wave",
+    "description": "Hey! How'd you get this!?",
+    "is_hidden": true
+  },
+  {
+    "id": 236,
+    "name": "Recarmdra",
+    "description": "User's HP becomes 1; allies' HP restored.",
+    "is_hidden": false
+  },
+  {
+    "id": 237,
+    "name": "Charmdi",
+    "description": "Dispels Charm (1 ally).",
+    "is_hidden": false
+  },
+  {
+    "id": 238,
+    "name": "Enradi",
+    "description": "Dispels Rage (1 ally).",
+    "is_hidden": false
+  },
+  {
+    "id": 239,
+    "name": "Junpei Co-Op",
+    "description": "0EF",
+    "is_hidden": true
+  },
+  {
+    "id": 240,
+    "name": "Yukari Co-Op",
+    "description": "0F0",
+    "is_hidden": true
+  },
+  {
+    "id": 241,
+    "name": "Akihiko Co-Op",
+    "description": "0F1",
+    "is_hidden": true
+  },
+  {
+    "id": 242,
+    "name": "Mitsuru Co-Op",
+    "description": "0F2",
+    "is_hidden": true
+  },
+  {
+    "id": 243,
+    "name": "Aigis Co-Op",
+    "description": "0F3",
+    "is_hidden": true
+  },
+  {
+    "id": 244,
+    "name": "Ken Co-Op",
+    "description": "0F4",
+    "is_hidden": true
+  },
+  {
+    "id": 245,
+    "name": "Shinjiro Co-Op",
+    "description": "0F5",
+    "is_hidden": true
+  },
+  {
+    "id": 246,
+    "name": "Koromaru Co-Op",
+    "description": "0F6",
+    "is_hidden": true
+  },
+  {
+    "id": 247,
+    "name": "Aigis Co-Op",
+    "description": "0F7",
+    "is_hidden": true
+  },
+  {
+    "id": 248,
+    "name": "Aigis Co-Op",
+    "description": "0F8",
+    "is_hidden": true
+  },
+  {
+    "id": 249,
+    "name": "Aigis Co-Op",
+    "description": "0F9",
+    "is_hidden": true
+  },
+  {
+    "id": 250,
+    "name": "Aigis Co-Op",
+    "description": "0FA",
+    "is_hidden": true
+  },
+  {
+    "id": 251,
+    "name": "0x0FB",
+    "description": "0FB",
+    "is_hidden": true
+  },
+  {
+    "id": 252,
+    "name": "0x0FC",
+    "description": "0FC",
+    "is_hidden": true
+  },
+  {
+    "id": 253,
+    "name": "0x0FD",
+    "description": "0FD",
+    "is_hidden": true
+  },
+  {
+    "id": 254,
+    "name": "0x0FE",
+    "description": "0FE",
+    "is_hidden": true
+  },
+  {
+    "id": 255,
+    "name": "0x0FF",
+    "description": "0FF",
+    "is_hidden": true
+  },
+  {
+    "id": 256,
+    "name": "Summer Dream",
+    "description": "100",
+    "is_hidden": true
+  },
+  {
+    "id": 257,
+    "name": "Summer Dream",
+    "description": "101",
+    "is_hidden": true
+  },
+  {
+    "id": 258,
+    "name": "Summer Dream",
+    "description": "102",
+    "is_hidden": true
+  },
+  {
+    "id": 259,
+    "name": "Summer Dream",
+    "description": "103",
+    "is_hidden": true
+  },
+  {
+    "id": 260,
+    "name": "Summer Dream",
+    "description": "104",
+    "is_hidden": true
+  },
+  {
+    "id": 261,
+    "name": "Summer Dream",
+    "description": "105",
+    "is_hidden": true
+  },
+  {
+    "id": 262,
+    "name": "Summer Dream",
+    "description": "106",
+    "is_hidden": true
+  },
+  {
+    "id": 263,
+    "name": "Summer Dream",
+    "description": "107",
+    "is_hidden": true
+  },
+  {
+    "id": 264,
+    "name": "Summer Dream",
+    "description": "108",
+    "is_hidden": true
+  },
+  {
+    "id": 265,
+    "name": "Summer Dream",
+    "description": "109",
+    "is_hidden": true
+  },
+  {
+    "id": 266,
+    "name": "Summer Dream",
+    "description": "10A",
+    "is_hidden": true
+  },
+  {
+    "id": 267,
+    "name": "Summer Dream",
+    "description": "10B",
+    "is_hidden": true
+  },
+  {
+    "id": 268,
+    "name": "Summer Dream",
+    "description": "10C",
+    "is_hidden": true
+  },
+  {
+    "id": 269,
+    "name": "Summer Dream",
+    "description": "10D",
+    "is_hidden": true
+  },
+  {
+    "id": 270,
+    "name": "Summer Dream",
+    "description": "10E",
+    "is_hidden": true
+  },
+  {
+    "id": 271,
+    "name": "Summer Dream",
+    "description": "10F",
+    "is_hidden": true
+  },
+  {
+    "id": 272,
+    "name": "Jack Brothers",
+    "description": "Knocks Down all foes (med odds).",
+    "is_hidden": true
+  },
+  {
+    "id": 273,
+    "name": "Ardhanari",
+    "description": "Deals massive Fire damage to all foes.",
+    "is_hidden": true
+  },
+  {
+    "id": 274,
+    "name": "Trickster",
+    "description": "Inflicts random ailments on all foes.",
+    "is_hidden": true
+  },
+  {
+    "id": 275,
+    "name": "Infinity",
+    "description": "Invulnerability for 1 turn (party).",
+    "is_hidden": true
+  },
+  {
+    "id": 276,
+    "name": "Valhalla",
+    "description": "Invulnerability for 1 turn (1 ally), but...",
+    "is_hidden": true
+  },
+  {
+    "id": 277,
+    "name": "Summer Dream",
+    "description": "Unpredictable effect.",
+    "is_hidden": true
+  },
+  {
+    "id": 278,
+    "name": "Armageddon",
+    "description": "Deals ultimate damage to all foes.",
+    "is_hidden": true
+  },
+  {
+    "id": 279,
+    "name": "Cadenza",
+    "description": "Restores 50% HP/Evasion up (party).",
+    "is_hidden": true
+  },
+  {
+    "id": 280,
+    "name": "Scarlet Havoc",
+    "description": "Deals heavy Slash damage to all foes.",
+    "is_hidden": true
+  },
+  {
+    "id": 281,
+    "name": "Frolic",
+    "description": "Restores party's HP, but sometimes...",
+    "is_hidden": true
+  },
+  {
+    "id": 282,
+    "name": "Dreamfest",
+    "description": "Charms all foes (high odds).",
+    "is_hidden": true
+  },
+  {
+    "id": 283,
+    "name": "King and I",
+    "description": "Deals medium Ice dmg/Freezes all foes.",
+    "is_hidden": true
+  },
+  {
+    "id": 284,
+    "name": "Best Friends",
+    "description": "Combines all -kaja skills on 1 ally.",
+    "is_hidden": true
+  },
+  {
+    "id": 285,
+    "name": "Shadow Hound",
+    "description": "Deals heavy Strike damage to all foes.",
+    "is_hidden": true
+  },
+  {
+    "id": 286,
+    "name": "Thunder Call",
+    "description": "Deals heavy Elec dmg/Shocks all foes.",
+    "is_hidden": true
+  },
+  {
+    "id": 287,
+    "name": "Last Judge",
+    "description": "Deals severe Almighty damage to all foes.",
+    "is_hidden": true
+  },
+  {
+    "id": 288,
+    "name": "Raktapaksha",
+    "description": "Knocks Down all foes+Dekaja (med odds).",
+    "is_hidden": true
+  },
+  {
+    "id": 289,
+    "name": "Justice",
+    "description": "Halves all foes' HP via Light magic.",
+    "is_hidden": true
+  },
+  {
+    "id": 290,
+    "name": "Trickster",
+    "description": "122",
+    "is_hidden": true
+  },
+  {
+    "id": 291,
+    "name": "0x123",
+    "description": "123",
+    "is_hidden": true
+  },
+  {
+    "id": 292,
+    "name": "0x124",
+    "description": "124",
+    "is_hidden": true
+  },
+  {
+    "id": 293,
+    "name": "Primal Darkness",
+    "description": "125",
+    "is_hidden": true
+  },
+  {
+    "id": 294,
+    "name": "Dark Embrace",
+    "description": "126",
+    "is_hidden": true
+  },
+  {
+    "id": 295,
+    "name": "Primal Darkness",
+    "description": "127",
+    "is_hidden": true
+  },
+  {
+    "id": 296,
+    "name": "Primal Darkness",
+    "description": "128",
+    "is_hidden": true
+  },
+  {
+    "id": 297,
+    "name": "Heartbreaker",
+    "description": "129",
+    "is_hidden": true
+  },
+  {
+    "id": 298,
+    "name": "Pierce Attack",
+    "description": "12A",
+    "is_hidden": true
+  },
+  {
+    "id": 299,
+    "name": "Pierce Attack",
+    "description": "12B",
+    "is_hidden": true
+  },
+  {
+    "id": 300,
+    "name": "Giga Spark",
+    "description": "12C",
+    "is_hidden": true
+  },
+  {
+    "id": 301,
+    "name": "Sacrifice",
+    "description": "12D",
+    "is_hidden": true
+  },
+  {
+    "id": 302,
+    "name": "0x12E",
+    "description": "12E",
+    "is_hidden": true
+  },
+  {
+    "id": 303,
+    "name": "0x12F",
+    "description": "12F",
+    "is_hidden": true
+  },
+  {
+    "id": 304,
+    "name": "Pierce Attack",
+    "description": "130",
+    "is_hidden": true
+  },
+  {
+    "id": 305,
+    "name": "Fire Attack",
+    "description": "131",
+    "is_hidden": true
+  },
+  {
+    "id": 306,
+    "name": "Summon",
+    "description": "132",
+    "is_hidden": true
+  },
+  {
+    "id": 307,
+    "name": "Summon",
+    "description": "133",
+    "is_hidden": true
+  },
+  {
+    "id": 308,
+    "name": "Armed&Ready",
+    "description": "134",
+    "is_hidden": true
+  },
+  {
+    "id": 309,
+    "name": "Sacrifice",
+    "description": "135",
+    "is_hidden": true
+  },
+  {
+    "id": 310,
+    "name": "Arcana Shift",
+    "description": "136",
+    "is_hidden": true
+  },
+  {
+    "id": 311,
+    "name": "Arcana Shift",
+    "description": "137",
+    "is_hidden": true
+  },
+  {
+    "id": 312,
+    "name": "Arcana Shift",
+    "description": "138",
+    "is_hidden": true
+  },
+  {
+    "id": 313,
+    "name": "Arcana Shift",
+    "description": "139",
+    "is_hidden": true
+  },
+  {
+    "id": 314,
+    "name": "Arcana Shift",
+    "description": "13A",
+    "is_hidden": true
+  },
+  {
+    "id": 315,
+    "name": "Arcana Shift",
+    "description": "13B",
+    "is_hidden": true
+  },
+  {
+    "id": 316,
+    "name": "Arcana Shift",
+    "description": "13C",
+    "is_hidden": true
+  },
+  {
+    "id": 317,
+    "name": "Arcana Shift",
+    "description": "13D",
+    "is_hidden": true
+  },
+  {
+    "id": 318,
+    "name": "Arcana Shift",
+    "description": "13E",
+    "is_hidden": true
+  },
+  {
+    "id": 319,
+    "name": "Night Queen",
+    "description": "13F",
+    "is_hidden": true
+  },
+  {
+    "id": 320,
+    "name": "All-Out 2",
+    "description": "140",
+    "is_hidden": true
+  },
+  {
+    "id": 321,
+    "name": "All-Out 3",
+    "description": "141",
+    "is_hidden": true
+  },
+  {
+    "id": 322,
+    "name": "All-Out 4",
+    "description": "142",
+    "is_hidden": true
+  },
+  {
+    "id": 323,
+    "name": "Plume of Dusk",
+    "description": "143",
+    "is_hidden": true
+  },
+  {
+    "id": 324,
+    "name": "Analyze",
+    "description": "Displays enemy information.",
+    "is_hidden": true
+  },
+  {
+    "id": 325,
+    "name": "Oracle",
+    "description": "Unpredictable effect.",
+    "is_hidden": true
+  },
+  {
+    "id": 326,
+    "name": "Full Analysis",
+    "description": "Displays detailed enemy information.",
+    "is_hidden": true
+  },
+  {
+    "id": 327,
+    "name": "Oracle",
+    "description": "147",
+    "is_hidden": true
+  },
+  {
+    "id": 328,
+    "name": "Oracle",
+    "description": "148",
+    "is_hidden": true
+  },
+  {
+    "id": 329,
+    "name": "Oracle",
+    "description": "149",
+    "is_hidden": true
+  },
+  {
+    "id": 330,
+    "name": "Oracle",
+    "description": "14A",
+    "is_hidden": true
+  },
+  {
+    "id": 331,
+    "name": "Oracle",
+    "description": "14B",
+    "is_hidden": true
+  },
+  {
+    "id": 332,
+    "name": "All-Out 2L",
+    "description": "14C",
+    "is_hidden": true
+  },
+  {
+    "id": 333,
+    "name": "All-Out 3L",
+    "description": "14D",
+    "is_hidden": true
+  },
+  {
+    "id": 334,
+    "name": "All-Out 4L",
+    "description": "14E",
+    "is_hidden": true
+  },
+  {
+    "id": 335,
+    "name": "Support Scan",
+    "description": "Views any changes in an enemy's status.",
+    "is_hidden": true
+  },
+  {
+    "id": 336,
+    "name": "Third Eye",
+    "description": "Increases information displayed in the target.",
+    "is_hidden": true
+  },
+  {
+    "id": 337,
+    "name": "Mind DJ",
+    "description": "151",
+    "is_hidden": true
+  },
+  {
+    "id": 338,
+    "name": "DJ Queen",
+    "description": "152",
+    "is_hidden": true
+  },
+  {
+    "id": 339,
+    "name": "Escape Route",
+    "description": "Instantly return to Tartarus's entrance.",
+    "is_hidden": true
+  },
+  {
+    "id": 340,
+    "name": "Healing Wave",
+    "description": "Recover some HP when moving to the next floor.",
+    "is_hidden": true
+  },
+  {
+    "id": 341,
+    "name": "Summon",
+    "description": "155",
+    "is_hidden": true
+  },
+  {
+    "id": 342,
+    "name": "Orgia Mode",
+    "description": "156",
+    "is_hidden": true
+  },
+  {
+    "id": 343,
+    "name": "Great Seal",
+    "description": "Unleashes the power within you to seal Nyx.",
+    "is_hidden": true
+  },
+  {
+    "id": 344,
+    "name": "Great Seal",
+    "description": "Unleashes the power within you to seal Nyx.",
+    "is_hidden": true
+  },
+  {
+    "id": 345,
+    "name": "0x159",
+    "description": "159",
+    "is_hidden": true
+  },
+  {
+    "id": 346,
+    "name": "Ice Attack",
+    "description": "15A",
+    "is_hidden": true
+  },
+  {
+    "id": 347,
+    "name": "Wind Attack",
+    "description": "15B",
+    "is_hidden": true
+  },
+  {
+    "id": 348,
+    "name": "Elec Attack",
+    "description": "15C",
+    "is_hidden": true
+  },
+  {
+    "id": 349,
+    "name": "Fire Attack",
+    "description": "15D",
+    "is_hidden": true
+  },
+  {
+    "id": 350,
+    "name": "Pierce Attack",
+    "description": "15E",
+    "is_hidden": true
+  },
+  {
+    "id": 351,
+    "name": "Strike Attack",
+    "description": "15F",
+    "is_hidden": true
+  },
+  {
+    "id": 352,
+    "name": "Summon",
+    "description": "160",
+    "is_hidden": true
+  },
+  {
+    "id": 353,
+    "name": "Summon",
+    "description": "161",
+    "is_hidden": true
+  },
+  {
+    "id": 354,
+    "name": "Summon",
+    "description": "162",
+    "is_hidden": true
+  },
+  {
+    "id": 355,
+    "name": "Prophecy of Ruin",
+    "description": "163",
+    "is_hidden": true
+  },
+  {
+    "id": 356,
+    "name": "Heartbreaker",
+    "description": "164",
+    "is_hidden": true
+  },
+  {
+    "id": 357,
+    "name": "Unite",
+    "description": "165",
+    "is_hidden": true
+  },
+  {
+    "id": 358,
+    "name": "Separate",
+    "description": "166",
+    "is_hidden": true
+  },
+  {
+    "id": 359,
+    "name": "Pierce Attack",
+    "description": "167",
+    "is_hidden": true
+  },
+  {
+    "id": 360,
+    "name": "Pierce Attack",
+    "description": "168",
+    "is_hidden": true
+  },
+  {
+    "id": 361,
+    "name": "Samarecarm",
+    "description": "169",
+    "is_hidden": true
+  },
+  {
+    "id": 362,
+    "name": "Samarecarm",
+    "description": "16A",
+    "is_hidden": true
+  },
+  {
+    "id": 363,
+    "name": "Charge",
+    "description": "16B",
+    "is_hidden": true
+  },
+  {
+    "id": 364,
+    "name": "Giga Spark",
+    "description": "16C",
+    "is_hidden": true
+  },
+  {
+    "id": 365,
+    "name": "Wheel of Fortune",
+    "description": "16D",
+    "is_hidden": true
+  },
+  {
+    "id": 366,
+    "name": "Wheel of Fortune",
+    "description": "16E",
+    "is_hidden": true
+  },
+  {
+    "id": 367,
+    "name": "Wheel of Fortune",
+    "description": "16F",
+    "is_hidden": true
+  },
+  {
+    "id": 368,
+    "name": "Paradigm Shift",
+    "description": "170",
+    "is_hidden": true
+  },
+  {
+    "id": 369,
+    "name": "Wheel of Fortune",
+    "description": "171",
+    "is_hidden": true
+  },
+  {
+    "id": 370,
+    "name": "Wheel of Fortune",
+    "description": "172",
+    "is_hidden": true
+  },
+  {
+    "id": 371,
+    "name": "E Attack Up",
+    "description": "173",
+    "is_hidden": true
+  },
+  {
+    "id": 372,
+    "name": "P Attack Up",
+    "description": "174",
+    "is_hidden": true
+  },
+  {
+    "id": 373,
+    "name": "E Attack Down",
+    "description": "175",
+    "is_hidden": true
+  },
+  {
+    "id": 374,
+    "name": "P Attack Down",
+    "description": "176",
+    "is_hidden": true
+  },
+  {
+    "id": 375,
+    "name": "E Defense Up",
+    "description": "177",
+    "is_hidden": true
+  },
+  {
+    "id": 376,
+    "name": "P Defense Up",
+    "description": "178",
+    "is_hidden": true
+  },
+  {
+    "id": 377,
+    "name": "E Defense Down",
+    "description": "179",
+    "is_hidden": true
+  },
+  {
+    "id": 378,
+    "name": "P Defense Down",
+    "description": "17A",
+    "is_hidden": true
+  },
+  {
+    "id": 379,
+    "name": "E Panic",
+    "description": "17B",
+    "is_hidden": true
+  },
+  {
+    "id": 380,
+    "name": "P Panic",
+    "description": "17C",
+    "is_hidden": true
+  },
+  {
+    "id": 381,
+    "name": "E Rage",
+    "description": "17D",
+    "is_hidden": true
+  },
+  {
+    "id": 382,
+    "name": "P Rage",
+    "description": "17E",
+    "is_hidden": true
+  },
+  {
+    "id": 383,
+    "name": "E Distress",
+    "description": "17F",
+    "is_hidden": true
+  },
+  {
+    "id": 384,
+    "name": "P Distress",
+    "description": "180",
+    "is_hidden": true
+  },
+  {
+    "id": 385,
+    "name": "E Fear",
+    "description": "181",
+    "is_hidden": true
+  },
+  {
+    "id": 386,
+    "name": "P Fear",
+    "description": "182",
+    "is_hidden": true
+  },
+  {
+    "id": 387,
+    "name": "E Damage Low",
+    "description": "183",
+    "is_hidden": true
+  },
+  {
+    "id": 388,
+    "name": "P Damage Low",
+    "description": "184",
+    "is_hidden": true
+  },
+  {
+    "id": 389,
+    "name": "E Damage Mid",
+    "description": "185",
+    "is_hidden": true
+  },
+  {
+    "id": 390,
+    "name": "P Damage Mid",
+    "description": "186",
+    "is_hidden": true
+  },
+  {
+    "id": 391,
+    "name": "E Damage High",
+    "description": "187",
+    "is_hidden": true
+  },
+  {
+    "id": 392,
+    "name": "P Damage High",
+    "description": "188",
+    "is_hidden": true
+  },
+  {
+    "id": 393,
+    "name": "E Heal",
+    "description": "189",
+    "is_hidden": true
+  },
+  {
+    "id": 394,
+    "name": "P Heal",
+    "description": "18A",
+    "is_hidden": true
+  },
+  {
+    "id": 395,
+    "name": "Almighty Attack",
+    "description": "18B",
+    "is_hidden": true
+  },
+  {
+    "id": 396,
+    "name": "Arcana Shift",
+    "description": "18C",
+    "is_hidden": true
+  },
+  {
+    "id": 397,
+    "name": "Arcana Shift",
+    "description": "18D",
+    "is_hidden": true
+  },
+  {
+    "id": 398,
+    "name": "Arcana Shift",
+    "description": "18E",
+    "is_hidden": true
+  },
+  {
+    "id": 399,
+    "name": "Arcana Shift",
+    "description": "18F",
+    "is_hidden": true
+  },
+  {
+    "id": 400,
+    "name": "Band Aid",
+    "description": "190",
+    "is_hidden": true
+  },
+  {
+    "id": 401,
+    "name": "Medicine",
+    "description": "191",
+    "is_hidden": true
+  },
+  {
+    "id": 402,
+    "name": "Bead",
+    "description": "192",
+    "is_hidden": true
+  },
+  {
+    "id": 403,
+    "name": "Snuff Soul",
+    "description": "193",
+    "is_hidden": true
+  },
+  {
+    "id": 404,
+    "name": "Chewing Soul",
+    "description": "194",
+    "is_hidden": true
+  },
+  {
+    "id": 405,
+    "name": "Precious Egg",
+    "description": "195",
+    "is_hidden": true
+  },
+  {
+    "id": 406,
+    "name": "Soma",
+    "description": "196",
+    "is_hidden": true
+  },
+  {
+    "id": 407,
+    "name": "0x197",
+    "description": "197",
+    "is_hidden": true
+  },
+  {
+    "id": 408,
+    "name": "0x198",
+    "description": "198",
+    "is_hidden": true
+  },
+  {
+    "id": 409,
+    "name": "0x199",
+    "description": "199",
+    "is_hidden": true
+  },
+  {
+    "id": 410,
+    "name": "0x19A",
+    "description": "19A",
+    "is_hidden": true
+  },
+  {
+    "id": 411,
+    "name": "Muscle Drink",
+    "description": "19B",
+    "is_hidden": true
+  },
+  {
+    "id": 412,
+    "name": "Odd Morsel",
+    "description": "19C",
+    "is_hidden": true
+  },
+  {
+    "id": 413,
+    "name": "Rancid Gravy",
+    "description": "19D",
+    "is_hidden": true
+  },
+  {
+    "id": 414,
+    "name": "Powerful Drug",
+    "description": "19E",
+    "is_hidden": true
+  },
+  {
+    "id": 415,
+    "name": "Cold Medicine",
+    "description": "19F",
+    "is_hidden": true
+  },
+  {
+    "id": 416,
+    "name": "Energy Drink",
+    "description": "1A0",
+    "is_hidden": true
+  },
+  {
+    "id": 417,
+    "name": "0x1A1",
+    "description": "1A1",
+    "is_hidden": true
+  },
+  {
+    "id": 418,
+    "name": "0x1A2",
+    "description": "1A2",
+    "is_hidden": true
+  },
+  {
+    "id": 419,
+    "name": "0x1A3",
+    "description": "1A3",
+    "is_hidden": true
+  },
+  {
+    "id": 420,
+    "name": "0x1A4",
+    "description": "1A4",
+    "is_hidden": true
+  },
+  {
+    "id": 421,
+    "name": "0x1A5",
+    "description": "1A5",
+    "is_hidden": true
+  },
+  {
+    "id": 422,
+    "name": "0x1A6",
+    "description": "1A6",
+    "is_hidden": true
+  },
+  {
+    "id": 423,
+    "name": "0x1A7",
+    "description": "1A7",
+    "is_hidden": true
+  },
+  {
+    "id": 424,
+    "name": "0x1A8",
+    "description": "1A8",
+    "is_hidden": true
+  },
+  {
+    "id": 425,
+    "name": "0x1A9",
+    "description": "1A9",
+    "is_hidden": true
+  },
+  {
+    "id": 426,
+    "name": "0x1AA",
+    "description": "1AA",
+    "is_hidden": true
+  },
+  {
+    "id": 427,
+    "name": "0x1AB",
+    "description": "1AB",
+    "is_hidden": true
+  },
+  {
+    "id": 428,
+    "name": "0x1AC",
+    "description": "1AC",
+    "is_hidden": true
+  },
+  {
+    "id": 429,
+    "name": "0x1AD",
+    "description": "1AD",
+    "is_hidden": true
+  },
+  {
+    "id": 430,
+    "name": "0x1AE",
+    "description": "1AE",
+    "is_hidden": true
+  },
+  {
+    "id": 431,
+    "name": "0x1AF",
+    "description": "1AF",
+    "is_hidden": true
+  },
+  {
+    "id": 432,
+    "name": "0x1B0",
+    "description": "1B0",
+    "is_hidden": true
+  },
+  {
+    "id": 433,
+    "name": "0x1B1",
+    "description": "1B1",
+    "is_hidden": true
+  },
+  {
+    "id": 434,
+    "name": "0x1B2",
+    "description": "1B2",
+    "is_hidden": true
+  },
+  {
+    "id": 435,
+    "name": "0x1B3",
+    "description": "1B3",
+    "is_hidden": true
+  },
+  {
+    "id": 436,
+    "name": "0x1B4",
+    "description": "1B4",
+    "is_hidden": true
+  },
+  {
+    "id": 437,
+    "name": "0x1B5",
+    "description": "1B5",
+    "is_hidden": true
+  },
+  {
+    "id": 438,
+    "name": "Homunculus",
+    "description": "1B6",
+    "is_hidden": true
+  },
+  {
+    "id": 439,
+    "name": "Plume of Dusk",
+    "description": "1B7",
+    "is_hidden": true
+  },
+  {
+    "id": 440,
+    "name": "0x1B8",
+    "description": "1B8",
+    "is_hidden": true
+  },
+  {
+    "id": 441,
+    "name": "0x1B9",
+    "description": "1B9",
+    "is_hidden": true
+  },
+  {
+    "id": 442,
+    "name": "0x1BA",
+    "description": "1BA",
+    "is_hidden": true
+  },
+  {
+    "id": 443,
+    "name": "0x1BB",
+    "description": "1BB",
+    "is_hidden": true
+  },
+  {
+    "id": 444,
+    "name": "0x1BC",
+    "description": "1BC",
+    "is_hidden": true
+  },
+  {
+    "id": 445,
+    "name": "0x1BD",
+    "description": "1BD",
+    "is_hidden": true
+  },
+  {
+    "id": 446,
+    "name": "0x1BE",
+    "description": "1BE",
+    "is_hidden": true
+  },
+  {
+    "id": 447,
+    "name": "0x1BF",
+    "description": "1BF",
+    "is_hidden": true
+  },
+  {
+    "id": 448,
+    "name": "0x1C0",
+    "description": "1C0",
+    "is_hidden": true
+  },
+  {
+    "id": 449,
+    "name": "0x1C1",
+    "description": "1C1",
+    "is_hidden": true
+  },
+  {
+    "id": 450,
+    "name": "0x1C2",
+    "description": "1C2",
+    "is_hidden": true
+  },
+  {
+    "id": 451,
+    "name": "0x1C3",
+    "description": "1C3",
+    "is_hidden": true
+  },
+  {
+    "id": 452,
+    "name": "0x1C4",
+    "description": "1C4",
+    "is_hidden": true
+  },
+  {
+    "id": 453,
+    "name": "0x1C5",
+    "description": "1C5",
+    "is_hidden": true
+  },
+  {
+    "id": 454,
+    "name": "0x1C6",
+    "description": "1C6",
+    "is_hidden": true
+  },
+  {
+    "id": 455,
+    "name": "0x1C7",
+    "description": "1C7",
+    "is_hidden": true
+  },
+  {
+    "id": 456,
+    "name": "0x1C8",
+    "description": "1C8",
+    "is_hidden": true
+  },
+  {
+    "id": 457,
+    "name": "0x1C9",
+    "description": "1C9",
+    "is_hidden": true
+  },
+  {
+    "id": 458,
+    "name": "0x1CA",
+    "description": "1CA",
+    "is_hidden": true
+  },
+  {
+    "id": 459,
+    "name": "0x1CB",
+    "description": "1CB",
+    "is_hidden": true
+  },
+  {
+    "id": 460,
+    "name": "0x1CC",
+    "description": "1CC",
+    "is_hidden": true
+  },
+  {
+    "id": 461,
+    "name": "0x1CD",
+    "description": "1CD",
+    "is_hidden": true
+  },
+  {
+    "id": 462,
+    "name": "0x1CE",
+    "description": "1CE",
+    "is_hidden": true
+  },
+  {
+    "id": 463,
+    "name": "0x1CF",
+    "description": "1CF",
+    "is_hidden": true
+  },
+  {
+    "id": 464,
+    "name": "Resist Slash",
+    "description": "Reduces damage from Slash attacks.",
+    "is_hidden": false
+  },
+  {
+    "id": 465,
+    "name": "Null Slash",
+    "description": "Nullifies damage from Slash attacks.",
+    "is_hidden": false
+  },
+  {
+    "id": 466,
+    "name": "Repel Slash",
+    "description": "Reflects damage from Slash attacks.",
+    "is_hidden": false
+  },
+  {
+    "id": 467,
+    "name": "Absorb Slash",
+    "description": "Drains damage from Slash attacks.",
+    "is_hidden": false
+  },
+  {
+    "id": 468,
+    "name": "Resist Strike",
+    "description": "Reduces damage from Strike attacks.",
+    "is_hidden": false
+  },
+  {
+    "id": 469,
+    "name": "Null Strike",
+    "description": "Nullifies damage from Strike attacks.",
+    "is_hidden": false
+  },
+  {
+    "id": 470,
+    "name": "Repel Strike",
+    "description": "Reflects damage from Strike attacks.",
+    "is_hidden": false
+  },
+  {
+    "id": 471,
+    "name": "Absorb Strike",
+    "description": "Drains damage from Strike attacks.",
+    "is_hidden": false
+  },
+  {
+    "id": 472,
+    "name": "Resist Pierce",
+    "description": "Reduces damage from Pierce attacks.",
+    "is_hidden": false
+  },
+  {
+    "id": 473,
+    "name": "Null Pierce",
+    "description": "Nullifies damage from Pierce attacks.",
+    "is_hidden": false
+  },
+  {
+    "id": 474,
+    "name": "Repel Pierce",
+    "description": "Reflects damage from Pierce attacks.",
+    "is_hidden": false
+  },
+  {
+    "id": 475,
+    "name": "Absorb Pierce",
+    "description": "Drains damage from Pierce attacks.",
+    "is_hidden": false
+  },
+  {
+    "id": 476,
+    "name": "Resist Fire",
+    "description": "Reduces damage from Fire attacks.",
+    "is_hidden": false
+  },
+  {
+    "id": 477,
+    "name": "Null Fire",
+    "description": "Nullifies damage from Fire attacks.",
+    "is_hidden": false
+  },
+  {
+    "id": 478,
+    "name": "Repel Fire",
+    "description": "Reflects damage from Fire attacks.",
+    "is_hidden": false
+  },
+  {
+    "id": 479,
+    "name": "Absorb Fire",
+    "description": "Drains damage from Fire attacks.",
+    "is_hidden": false
+  },
+  {
+    "id": 480,
+    "name": "Resist Ice",
+    "description": "Reduces damage from Ice attacks.",
+    "is_hidden": false
+  },
+  {
+    "id": 481,
+    "name": "Null Ice",
+    "description": "Nullifies damage from Ice attacks.",
+    "is_hidden": false
+  },
+  {
+    "id": 482,
+    "name": "Repel Ice",
+    "description": "Reflects damage from Ice attacks.",
+    "is_hidden": false
+  },
+  {
+    "id": 483,
+    "name": "Absorb Ice",
+    "description": "Drains damage from Ice attacks.",
+    "is_hidden": false
+  },
+  {
+    "id": 484,
+    "name": "Resist Elec",
+    "description": "Reduces damage from Elec attacks.",
+    "is_hidden": false
+  },
+  {
+    "id": 485,
+    "name": "Null Elec",
+    "description": "Nullifies damage from Elec attacks.",
+    "is_hidden": false
+  },
+  {
+    "id": 486,
+    "name": "Repel Elec",
+    "description": "Reflects damage fromElec attacks.",
+    "is_hidden": false
+  },
+  {
+    "id": 487,
+    "name": "Absorb Elec",
+    "description": "Drains damage from Elec attacks.",
+    "is_hidden": false
+  },
+  {
+    "id": 488,
+    "name": "Resist Wind",
+    "description": "Reduces damage from Wind attacks.",
+    "is_hidden": false
+  },
+  {
+    "id": 489,
+    "name": "Null Wind",
+    "description": "Nullifies damage from Wind attacks.",
+    "is_hidden": false
+  },
+  {
+    "id": 490,
+    "name": "Repel Wind",
+    "description": "Reflects damage from Wind attacks.",
+    "is_hidden": false
+  },
+  {
+    "id": 491,
+    "name": "Absorb Wind",
+    "description": "Drains damage from Wind attacks.",
+    "is_hidden": false
+  },
+  {
+    "id": 492,
+    "name": "Resist Light",
+    "description": "Halves chance of death via a Light attack.",
+    "is_hidden": false
+  },
+  {
+    "id": 493,
+    "name": "Null Light",
+    "description": "Nullifies Light attacks.",
+    "is_hidden": false
+  },
+  {
+    "id": 494,
+    "name": "Repel Light",
+    "description": "Reflects Light attacks.",
+    "is_hidden": false
+  },
+  {
+    "id": 495,
+    "name": "Resist Dark",
+    "description": "Halves chance of death via a Darkness attack.",
+    "is_hidden": false
+  },
+  {
+    "id": 496,
+    "name": "Null Dark",
+    "description": "Nullifies Darkness attacks.",
+    "is_hidden": false
+  },
+  {
+    "id": 497,
+    "name": "Repel Dark",
+    "description": "Reflects Darkness attacks.",
+    "is_hidden": false
+  },
+  {
+    "id": 498,
+    "name": "Null Charm",
+    "description": "Protects user from being Charmed.",
+    "is_hidden": false
+  },
+  {
+    "id": 499,
+    "name": "Null Distress",
+    "description": "Protects user from Distress.",
+    "is_hidden": false
+  },
+  {
+    "id": 500,
+    "name": "Null Panic",
+    "description": "Protects user from Panic.",
+    "is_hidden": false
+  },
+  {
+    "id": 501,
+    "name": "Null Fear",
+    "description": "Protects user from Fear.",
+    "is_hidden": false
+  },
+  {
+    "id": 502,
+    "name": "Null Rage",
+    "description": "Protects user from becoming Enraged.",
+    "is_hidden": false
+  },
+  {
+    "id": 503,
+    "name": "Null Freeze",
+    "description": "Protects user from being Frozen.",
+    "is_hidden": false
+  },
+  {
+    "id": 504,
+    "name": "Null Shock",
+    "description": "Protects user from being Shocked.",
+    "is_hidden": false
+  },
+  {
+    "id": 505,
+    "name": "Null Poison",
+    "description": "Protects user from Poison.",
+    "is_hidden": false
+  },
+  {
+    "id": 506,
+    "name": "Unshaken Will",
+    "description": "Protects user from mental ailments.",
+    "is_hidden": false
+  },
+  {
+    "id": 507,
+    "name": "Masakados",
+    "description": "Nullifies all attacks except Almighty ones.",
+    "is_hidden": true
+  },
+  {
+    "id": 508,
+    "name": "Dodge Slash",
+    "description": "Evasion rate up vs Slash attacks.",
+    "is_hidden": false
+  },
+  {
+    "id": 509,
+    "name": "Evade Slash",
+    "description": "Evasion rate way up vs Slash attacks.",
+    "is_hidden": false
+  },
+  {
+    "id": 510,
+    "name": "Dodge Strike",
+    "description": "Evasion rate up vs Strike attacks.",
+    "is_hidden": false
+  },
+  {
+    "id": 511,
+    "name": "Evade Strike",
+    "description": "Evasion rate way up vs Strike attacks.",
+    "is_hidden": false
+  },
+  {
+    "id": 512,
+    "name": "Dodge Pierce",
+    "description": "Evasion rate up vs Pierce attacks.",
+    "is_hidden": false
+  },
+  {
+    "id": 513,
+    "name": "Evade Pierce",
+    "description": "Evasion rate way up vs Pierce attacks.",
+    "is_hidden": false
+  },
+  {
+    "id": 514,
+    "name": "Dodge Fire",
+    "description": "Evasion rate up vs Fire attacks.",
+    "is_hidden": false
+  },
+  {
+    "id": 515,
+    "name": "Evade Fire",
+    "description": "Evasion rate way up vs Fire attacks.",
+    "is_hidden": false
+  },
+  {
+    "id": 516,
+    "name": "Dodge Ice",
+    "description": "Evasion rate up vs Ice attacks.",
+    "is_hidden": false
+  },
+  {
+    "id": 517,
+    "name": "Evade Ice",
+    "description": "Evasion rate way up vs Ice attacks.",
+    "is_hidden": false
+  },
+  {
+    "id": 518,
+    "name": "Dodge Wind",
+    "description": "Evasion rate up vs Wind attacks.",
+    "is_hidden": false
+  },
+  {
+    "id": 519,
+    "name": "Evade Wind",
+    "description": "Evasion rate way up vs Wind attacks.",
+    "is_hidden": false
+  },
+  {
+    "id": 520,
+    "name": "Dodge Elec",
+    "description": "Evasion rate up vs Elec attacks.",
+    "is_hidden": false
+  },
+  {
+    "id": 521,
+    "name": "Evade Elec",
+    "description": "Evasion rate way up vs Elec attacks.",
+    "is_hidden": false
+  },
+  {
+    "id": 522,
+    "name": "Stamina Up 1",
+    "description": "20A",
+    "is_hidden": true
+  },
+  {
+    "id": 523,
+    "name": "Stamina Up 2",
+    "description": "20B",
+    "is_hidden": true
+  },
+  {
+    "id": 524,
+    "name": "Stamina Up 3",
+    "description": "20C",
+    "is_hidden": true
+  },
+  {
+    "id": 525,
+    "name": "0x20D",
+    "description": "20D",
+    "is_hidden": true
+  },
+  {
+    "id": 526,
+    "name": "Premonition",
+    "description": "Increases Evade against Physical attacks.",
+    "is_hidden": true
+  },
+  {
+    "id": 527,
+    "name": "Angelic Grace",
+    "description": "Increases Evade against magical attacks.",
+    "is_hidden": true
+  },
+  {
+    "id": 528,
+    "name": "Fire Boost",
+    "description": "Strengthens Fire attacks.",
+    "is_hidden": false
+  },
+  {
+    "id": 529,
+    "name": "Fire Amp",
+    "description": "Greatly strengthens Fire attacks.",
+    "is_hidden": false
+  },
+  {
+    "id": 530,
+    "name": "Ice Boost",
+    "description": "Strengthens Ice attacks.",
+    "is_hidden": false
+  },
+  {
+    "id": 531,
+    "name": "Ice Amp",
+    "description": "Greatly strengthens Ice attacks.",
+    "is_hidden": false
+  },
+  {
+    "id": 532,
+    "name": "Elec Boost",
+    "description": "Strengthens Elec attacks.",
+    "is_hidden": false
+  },
+  {
+    "id": 533,
+    "name": "Elec Amp",
+    "description": "Greatly strengthens Elec attacks.",
+    "is_hidden": false
+  },
+  {
+    "id": 534,
+    "name": "Wind Boost",
+    "description": "Strengthens Wind attacks.",
+    "is_hidden": false
+  },
+  {
+    "id": 535,
+    "name": "Wind Amp",
+    "description": "Greatly strengthens Wind attacks.",
+    "is_hidden": false
+  },
+  {
+    "id": 536,
+    "name": "Fast Retreat",
+    "description": "Increases chance of escape.",
+    "is_hidden": false
+  },
+  {
+    "id": 537,
+    "name": "HP Up 1",
+    "description": "Increases max HP by 10%.",
+    "is_hidden": true
+  },
+  {
+    "id": 538,
+    "name": "HP Up 2",
+    "description": "Increases max HP by 20%.",
+    "is_hidden": true
+  },
+  {
+    "id": 539,
+    "name": "HP Up 3",
+    "description": "Increases max HP by 30%.",
+    "is_hidden": true
+  },
+  {
+    "id": 540,
+    "name": "SP Up 1",
+    "description": "Increases max SP by 10%.",
+    "is_hidden": true
+  },
+  {
+    "id": 541,
+    "name": "SP Up 2",
+    "description": "Increases max SP by 20%.",
+    "is_hidden": true
+  },
+  {
+    "id": 542,
+    "name": "SP Up 3",
+    "description": "Increases max SP by 30%.",
+    "is_hidden": true
+  },
+  {
+    "id": 543,
+    "name": "Raging Tiger",
+    "description": "Increases attack power while Enraged.",
+    "is_hidden": false
+  },
+  {
+    "id": 544,
+    "name": "Counter",
+    "description": "Counter physical attacks (low odds).",
+    "is_hidden": false
+  },
+  {
+    "id": 545,
+    "name": "Counterstrike",
+    "description": "Counter physical attacks (med odds).",
+    "is_hidden": false
+  },
+  {
+    "id": 546,
+    "name": "High Counter",
+    "description": "Counter physical attacks (high odds).",
+    "is_hidden": false
+  },
+  {
+    "id": 547,
+    "name": "Regenerate 1",
+    "description": "Restores HP slightly each turn in battle.",
+    "is_hidden": false
+  },
+  {
+    "id": 548,
+    "name": "Regenerate 2",
+    "description": "Restores a little HP each turn in battle.",
+    "is_hidden": false
+  },
+  {
+    "id": 549,
+    "name": "Regenerate 3",
+    "description": "Restores some HP each turn in battle.",
+    "is_hidden": false
+  },
+  {
+    "id": 550,
+    "name": "Invigorate 1",
+    "description": "Restores SP slightly each turn in battle.",
+    "is_hidden": false
+  },
+  {
+    "id": 551,
+    "name": "Invigorate 2",
+    "description": "Restores a little SP each turn in battle.",
+    "is_hidden": false
+  },
+  {
+    "id": 552,
+    "name": "Invigorate 3",
+    "description": "Restores some SP each turn in battle.",
+    "is_hidden": false
+  },
+  {
+    "id": 553,
+    "name": "Growth 1",
+    "description": "Persona gains 1/4 EXP while inactive.",
+    "is_hidden": false
+  },
+  {
+    "id": 554,
+    "name": "Growth 2",
+    "description": "Persona gains 1/2 EXP while inactive.",
+    "is_hidden": false
+  },
+  {
+    "id": 555,
+    "name": "Growth 3",
+    "description": "Persona gains EXP while inactive.",
+    "is_hidden": false
+  },
+  {
+    "id": 556,
+    "name": "0x22C",
+    "description": "22C",
+    "is_hidden": true
+  },
+  {
+    "id": 557,
+    "name": "Auto-Tarukaja",
+    "description": "Automatic Tarukaja at the start of battle.",
+    "is_hidden": false
+  },
+  {
+    "id": 558,
+    "name": "Auto-Rakukaja",
+    "description": "Automatic Rakukaja at the start of battle.",
+    "is_hidden": false
+  },
+  {
+    "id": 559,
+    "name": "Auto-Sukukaja",
+    "description": "Automatic Sukukaja at the start of battle.",
+    "is_hidden": false
+  },
+  {
+    "id": 560,
+    "name": "Alertness",
+    "description": "Lowers odds of being taken by surprise.",
+    "is_hidden": false
+  },
+  {
+    "id": 561,
+    "name": "Sharp Student",
+    "description": "Lowers odds of sustaining crit dmg.",
+    "is_hidden": false
+  },
+  {
+    "id": 562,
+    "name": "Apt Pupil",
+    "description": "Increases user's Critical Rate.",
+    "is_hidden": false
+  },
+  {
+    "id": 563,
+    "name": "Ali Dance",
+    "description": "Increases chance of dodging by a lot.",
+    "is_hidden": true
+  },
+  {
+    "id": 564,
+    "name": "Firm Stance",
+    "description": "Always take half damage, but you can never dodge.",
+    "is_hidden": true
+  },
+  {
+    "id": 565,
+    "name": "Spell Master",
+    "description": "Halves SP cost for magic skills.",
+    "is_hidden": false
+  },
+  {
+    "id": 566,
+    "name": "Arms Master",
+    "description": "Halves HP cost for physical skills.",
+    "is_hidden": false
+  },
+  {
+    "id": 567,
+    "name": "HP Up",
+    "description": "237",
+    "is_hidden": true
+  },
+  {
+    "id": 568,
+    "name": "SP Up",
+    "description": "238",
+    "is_hidden": true
+  },
+  {
+    "id": 569,
+    "name": "0x239",
+    "description": "239",
+    "is_hidden": true
+  },
+  {
+    "id": 570,
+    "name": "Divine Grace",
+    "description": "Greatly strengthens restorative magic.",
+    "is_hidden": false
+  },
+  {
+    "id": 571,
+    "name": "Endure",
+    "description": "Restores 1 HP upon death 1x per battle.",
+    "is_hidden": false
+  },
+  {
+    "id": 572,
+    "name": "Enduring Soul",
+    "description": "Restores all HP upon death 1x per battle.",
+    "is_hidden": false
+  },
+  {
+    "id": 573,
+    "name": "Heavy Master",
+    "description": "Increases damage dealt by a heavy weapon.",
+    "is_hidden": true
+  },
+  {
+    "id": 574,
+    "name": "Magic Skill Up",
+    "description": "Increases magic damage.",
+    "is_hidden": false
+  },
+  {
+    "id": 575,
+    "name": "Phys Skill Up",
+    "description": "Increases physical damage.",
+    "is_hidden": true
+  },
+  {
+    "id": 576,
+    "name": "0x240",
+    "description": "240",
+    "is_hidden": true
+  },
+  {
+    "id": 577,
+    "name": "0x240",
+    "description": "240",
+    "is_hidden": true
+  },
+  {
+    "id": 578,
+    "name": "0x240",
+    "description": "240",
+    "is_hidden": true
+  },
+  {
+    "id": 579,
+    "name": "0x243",
+    "description": "243",
+    "is_hidden": true
+  },
+  {
+    "id": 580,
+    "name": "Rosary",
+    "description": "Low odds of revival vs Light magic.",
+    "is_hidden": true
+  },
+  {
+    "id": 581,
+    "name": "Prayer Beads",
+    "description": "Low odds of revival vs Darkness magic.",
+    "is_hidden": true
+  },
+  {
+    "id": 582,
+    "name": "Spear Master",
+    "description": "Increases damage dealt by a spear.",
+    "is_hidden": true
+  },
+  {
+    "id": 583,
+    "name": "Bow Master",
+    "description": "Increases damage dealt by a bow and arrow.",
+    "is_hidden": true
+  },
+  {
+    "id": 584,
+    "name": "1hSwd Master",
+    "description": "Increases damage dealt by a 1-handed sword.",
+    "is_hidden": true
+  },
+  {
+    "id": 585,
+    "name": "2hSwd Master",
+    "description": "Increases damage dealt by a 2-handed sword.",
+    "is_hidden": true
+  },
+  {
+    "id": 586,
+    "name": "Fist Master",
+    "description": "Increases damage dealt by a fist weapon.",
+    "is_hidden": true
+  },
+  {
+    "id": 587,
+    "name": "Survive Light",
+    "description": "Low odds of revival vs Light magic.",
+    "is_hidden": false
+  },
+  {
+    "id": 588,
+    "name": "Survive Dark",
+    "description": "Low odds of revival vs Darkness magic.",
+    "is_hidden": false
+  },
+  {
+    "id": 589,
+    "name": "Auto-Maraku",
+    "description": "Automatic Marakukaja at start of battle.",
+    "is_hidden": false
+  },
+  {
+    "id": 590,
+    "name": "Auto-Mataru",
+    "description": "Automatic Matarukaja at start of battle.",
+    "is_hidden": false
+  },
+  {
+    "id": 591,
+    "name": "Auto-Masuku",
+    "description": "Automatic Masukukaja at start of battle.",
+    "is_hidden": false
+  },
+  {
+    "id": 592,
+    "name": "Charm Boost",
+    "description": "Increases odds of Charming a foe.",
+    "is_hidden": false
+  },
+  {
+    "id": 593,
+    "name": "Poison Boost",
+    "description": "Increases odds of Poisoning a foe.",
+    "is_hidden": false
+  },
+  {
+    "id": 594,
+    "name": "Distress Boost",
+    "description": "Increases odds of Distressing a foe.",
+    "is_hidden": false
+  },
+  {
+    "id": 595,
+    "name": "Panic Boost",
+    "description": "Increases odds of instilling Panic.",
+    "is_hidden": false
+  },
+  {
+    "id": 596,
+    "name": "Fear Boost",
+    "description": "Increases odds of instilling Fear.",
+    "is_hidden": false
+  },
+  {
+    "id": 597,
+    "name": "Rage Boost",
+    "description": "Increases odds of Enraging a foe.",
+    "is_hidden": false
+  },
+  {
+    "id": 598,
+    "name": "Ailment Boost",
+    "description": "Increases odds of inflicting ailments.",
+    "is_hidden": false
+  },
+  {
+    "id": 599,
+    "name": "Hama Boost",
+    "description": "Increases success rate of Light magic.",
+    "is_hidden": false
+  },
+  {
+    "id": 600,
+    "name": "Mudo Boost",
+    "description": "Increases success rate of Darkness magic.",
+    "is_hidden": false
+  },
+  {
+    "id": 601,
+    "name": "Endure Light",
+    "description": "Automatic revival vs Light magic.",
+    "is_hidden": false
+  },
+  {
+    "id": 602,
+    "name": "Endure Dark",
+    "description": "Automatic revival vs Darkness magic.",
+    "is_hidden": false
+  },
+  {
+    "id": 603,
+    "name": "Weapons Master",
+    "description": "Increases normal attack damage using weapons.",
+    "is_hidden": false
+  },
+  {
+    "id": 604,
+    "name": "0x25C",
+    "description": "25C",
+    "is_hidden": true
+  },
+  {
+    "id": 605,
+    "name": "Cool Breeze",
+    "description": "Slightly restores HP and SP after battle.",
+    "is_hidden": false
+  },
+  {
+    "id": 606,
+    "name": "Victory Cry",
+    "description": "Fully restores HP and SP after battle.",
+    "is_hidden": false
+  },
+  {
+    "id": 607,
+    "name": "Spring of Life",
+    "description": "Moderately restores HP each turn in battle (Junpei Skill).",
+    "is_hidden": true
+  },
+  {
+    "id": 608,
+    "name": "Spring of Life",
+    "description": "Moderately restores HP each turn in battle.",
+    "is_hidden": true
+  },
+  {
+    "id": 609,
+    "name": "Infinite Endure",
+    "description": "261",
+    "is_hidden": true
+  },
+  {
+    "id": 610,
+    "name": "Fast-Heal",
+    "description": "262",
+    "is_hidden": true
+  },
+  {
+    "id": 611,
+    "name": "Insta-Heal",
+    "description": "263",
+    "is_hidden": true
+  },
+  {
+    "id": 612,
+    "name": "Resist Charm",
+    "description": "264",
+    "is_hidden": true
+  },
+  {
+    "id": 613,
+    "name": "Resist Distress",
+    "description": "265",
+    "is_hidden": true
+  },
+  {
+    "id": 614,
+    "name": "Resist Panic",
+    "description": "266",
+    "is_hidden": true
+  },
+  {
+    "id": 615,
+    "name": "Resist Fear",
+    "description": "267",
+    "is_hidden": true
+  },
+  {
+    "id": 616,
+    "name": "Resist Rage",
+    "description": "268",
+    "is_hidden": true
+  },
+  {
+    "id": 617,
+    "name": "Resist Freeze",
+    "description": "269",
+    "is_hidden": true
+  },
+  {
+    "id": 618,
+    "name": "Resist Shock",
+    "description": "26A",
+    "is_hidden": true
+  },
+  {
+    "id": 619,
+    "name": "Resist Poison",
+    "description": "26B",
+    "is_hidden": true
+  },
+  {
+    "id": 620,
+    "name": "HP Up High",
+    "description": "Increases max HP by 50%.",
+    "is_hidden": true
+  },
+  {
+    "id": 621,
+    "name": "SP Up High",
+    "description": "26D",
+    "is_hidden": true
+  },
+  {
+    "id": 622,
+    "name": "High Endure",
+    "description": "26E",
+    "is_hidden": true
+  },
+  {
+    "id": 623,
+    "name": "Blank",
+    "description": "26F",
+    "is_hidden": true
+  }
+]
