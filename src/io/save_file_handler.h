@@ -6,7 +6,7 @@
 
 namespace save_file_handler{
     std::optional<SaveData> read_save_file(const std::filesystem::path &filepath);
-    bool write_save_file(const SaveData &data);
+    bool write_save_file(SaveData &save_data);
 }
 
 #endif // SAVE_FILE_HANDLER_H

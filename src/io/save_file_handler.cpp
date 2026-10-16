@@ -28,6 +28,12 @@ template<typename T>
     return val;
 }
 
+template<typename T>
+inline void write_bytes_at(std::uint8_t *ptr, std::size_t offset, const T &val) noexcept
+{
+    std::memcpy(ptr + offset, &val, sizeof(T));
+}
+
 std::string read_ascii_string(const std::uint8_t *buffer)
 {
     std::string text;
@@ -83,6 +89,25 @@ static Persona read_persona_from_bytes(const std::uint8_t *persona_ptr)
                    lu,
                    base_persona.is_hidden);
 }
+
+static void write_persona_to_bytes(std::uint8_t *persona_tr, const Persona &persona)
+{
+    if (persona.id == 0) {
+        std::memset(persona_tr, 0, SIZE_PERSONA);
+        return;
+    }
+    write_bytes_at(persona_tr, 0, persona.flag);
+    write_bytes_at(persona_tr, 2, persona.id);
+    persona_tr[4] = persona.level;
+    write_bytes_at(persona_tr, 8, persona.total_xp);
+    std::memcpy(persona_tr + 12, persona.skills.data(), sizeof(persona.skills));
+
+    persona_tr[28] = persona.st;
+    persona_tr[29] = persona.ma;
+    persona_tr[30] = persona.en;
+    persona_tr[31] = persona.ag;
+    persona_tr[32] = persona.lu;
+}
 } // namespace
 
 namespace save_file_handler {
@@ -100,7 +125,7 @@ std::optional<SaveData> read_save_file(const std::filesystem::path &filepath)
     file.seekg(0, std::ios::beg);
     file.read(reinterpret_cast<char *>(save.raw_buffer.data()), file_length);
 
-    const uint8_t *raw = save.raw_buffer.data();
+    const std::uint8_t *raw = save.raw_buffer.data();
     save.firstname = (raw[OFFSET_MC_FIRSTNAME] == 0x80)
                          ? read_js_string(raw + OFFSET_MC_FIRSTNAME)
                          : read_ascii_string(raw + OFFSET_MC_FIRSTNAME);
@@ -138,5 +163,41 @@ std::optional<SaveData> read_save_file(const std::filesystem::path &filepath)
     }
     save.yen = read_bytes_at<std::uint32_t>(raw + OFFSET_YEN, 0);
     return save;
+}
+
+bool write_save_file(SaveData &save_data)
+{
+    std::filesystem::path file_path = save_data.file_path;
+    std::ofstream file(file_path, std::ios::binary | std::ios::trunc);
+    if (!file.is_open()) {
+        return false;
+    }
+    std::uint8_t *raw = save_data.raw_buffer.data();
+
+    raw[OFFSET_MC_LEVEL] = save_data.mc_level;
+    write_bytes_at(raw + OFFSET_SOCIAL_STATS, 0, save_data.academics);
+    write_bytes_at(raw + OFFSET_SOCIAL_STATS, 2, save_data.charm);
+    write_bytes_at(raw + OFFSET_SOCIAL_STATS, 4, save_data.courage);
+
+    write_bytes_at(raw + OFFSET_MC_XP, 0, save_data.mc_xp);
+    std::memcpy(raw + OFFSET_INVENTORY, save_data.inventory.data(), SIZE_INVENTORY);
+
+    for (std::size_t i = 0; i < save_data.active_personas.size(); ++i) {
+        const std::size_t slot_offset = OFFSET_SLOTS + (i * SIZE_PERSONA);
+        std::uint8_t *slot_persona = raw + slot_offset;
+        const Persona &persona = save_data.active_personas[i];
+        write_persona_to_bytes(slot_persona, persona);
+    }
+
+    for (std::size_t i = 0; i < 174; ++i) {
+        const std::size_t slot_offset = OFFSET_COMPENDIUM + (i * SIZE_PERSONA);
+        std::uint8_t *slot_persona = raw + slot_offset;
+        const Persona &persona = save_data.compendium[i];
+        write_persona_to_bytes(slot_persona, persona);
+    }
+    write_bytes_at(raw + OFFSET_YEN, 0, save_data.yen);
+
+    file.write(reinterpret_cast<const char *>(raw), save_data.raw_buffer.size());
+    return file.good();
 }
 } // namespace save_file_handler

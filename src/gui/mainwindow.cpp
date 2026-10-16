@@ -44,8 +44,8 @@ void MainWindow::dragEnterEvent(QDragEnterEvent *event)
         return;
     }
     const QFileInfo file_info(urls.constFirst().toLocalFile());
-    if (urls.constFirst().isLocalFile() &&
-        file_info.suffix().compare("bin", Qt::CaseInsensitive) == 0) {
+    if (urls.constFirst().isLocalFile()
+        && file_info.suffix().compare("bin", Qt::CaseInsensitive) == 0) {
         event->acceptProposedAction();
     } else {
         event->ignore();
@@ -140,4 +140,16 @@ void MainWindow::populate_tabs()
     tab_character_->load_save_data(save_ptr);
     tab_inventory_->load_save_data(save_ptr);
     tab_compendium_->load_save_data(save_ptr);
+}
+
+void MainWindow::on_actionSave_triggered()
+{
+    if (!current_save_.has_value()) {
+        return;
+    }
+    if (save_file_handler::write_save_file(*current_save_)) {
+        QMessageBox::information(this, "Success", "Changes saved successfully.");
+    } else {
+        QMessageBox::critical(this, "Error", "There was an error trying to save the changes.");
+    }
 }
