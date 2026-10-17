@@ -29,6 +29,10 @@ MainWindow::MainWindow(QWidget *parent)
     ui->tabWidget->addTab(tab_inventory_, "Inventory");
     ui->tabWidget->addTab(tab_compendium_, "Compendium");
 
+    QAction *aboutAction = new QAction(tr("About"), this);
+    connect(aboutAction, &QAction::triggered, this, &MainWindow::show_about);
+    ui->menubar->addAction(aboutAction);
+
     ui->tabWidget->setEnabled(true);
 }
 
@@ -168,4 +172,19 @@ void MainWindow::populate_tabs()
 void MainWindow::on_actionSave_triggered()
 {
     write_save();
+}
+
+void MainWindow::show_about()
+{
+    QMessageBox::about(
+        this,
+        tr("About %1").arg(QCoreApplication::applicationName()),
+        tr("<h3>%1</h3>"
+           "<p>Version %2<br>"
+           "Save editor for Persona 3 Portable.<br>"
+           "Built with Qt %3</p>"
+           "<p>Developed by <a href=\"https://github.com/Nightingale04\">Nightingale</a></p>")
+            .arg(QCoreApplication::applicationName(),
+                 QCoreApplication::applicationVersion(),
+                 QLatin1String(QT_VERSION_STR)));
 }

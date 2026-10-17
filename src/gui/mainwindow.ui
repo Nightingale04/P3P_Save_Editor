@@ -55,6 +55,9 @@
    <property name="text">
     <string>Save changes</string>
    </property>
+   <property name="shortcut">
+    <string>Ctrl+S</string>
+   </property>
   </action>
   <action name="actionLoad_PC_Save">
    <property name="text">

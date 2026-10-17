@@ -39,6 +39,7 @@ private:
     void write_save();
     void populate_tabs();
     void open_file_selector(bool is_pc_save);
+    void show_about();
 
 protected:
     void dragEnterEvent(QDragEnterEvent *event) override;
