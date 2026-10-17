@@ -18,7 +18,7 @@ constexpr std::size_t OFFSET_YEN = 0x4A14;
 
 constexpr std::size_t PADDING_PERSONA = 20;
 constexpr std::size_t SIZE_PERSONA = 52;
-constexpr std::size_t SIZE_INVENTORY = 2048;
+constexpr std::size_t SIZE_INVENTORY = 1936;
 
 template<typename T>
 [[nodiscard]] inline T read_bytes_at(const std::uint8_t *ptr, std::size_t offset) noexcept

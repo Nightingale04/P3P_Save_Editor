@@ -5623,7 +5623,7 @@
   {
     "id": 803,
     "name": "0x323",
-    "description": "0x022",
+    "description": "0x023",
     "type": 3,
     "is_debug": true
   },
@@ -5951,1218 +5951,1218 @@
   },
   {
     "id": 850,
-    "name": "Enamel Pied",
+    "name": "Dummy",
     "description": "2052",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 851,
-    "name": "Suede Pied",
+    "name": "Enamel Pied",
     "description": "Shining leg parts for Metis.",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 852,
-    "name": "Solid Pied",
+    "name": "Suede Pied",
     "description": "Leather-covered leg parts for Metis.",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 853,
-    "name": "Bisque Pied",
+    "name": "Solid Pied",
     "description": "Resin leg parts for Metis.",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 854,
-    "name": "Alumina Pied",
+    "name": "Bisque Pied",
     "description": "Light ceramic leg parts for Metis.",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 855,
-    "name": "Titanium Pied",
+    "name": "Alumina Pied",
     "description": "Light alloy leg parts for Metis.",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 856,
-    "name": "Zircon Pied",
+    "name": "Titanium Pied",
     "description": "Titanium leg parts for Metis.",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 857,
-    "name": "Baskins",
+    "name": "Zircon Pied",
     "description": "Zirconium leg parts for Metis.",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 858,
-    "name": "Leprechaun Toe",
+    "name": "Baskins",
     "description": "Imitation dancing shoes for Metis.",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 859,
-    "name": "Blood Aries",
+    "name": "Leprechaun Toe",
     "description": "Magical leg parts for Metis.",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 860,
-    "name": "Swan Legs",
+    "name": "Blood Aries",
     "description": "Crimson leg parts for Metis.",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 861,
-    "name": "Ella's Slippers",
+    "name": "Swan Legs",
     "description": "Angelic leg parts for Aigis.",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 862,
-    "name": "Aigis Legs v.100",
+    "name": "Ella's Slippers",
     "description": "Mysterious glass leg parts for Metis.",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 863,
-    "name": "Centurion",
+    "name": "Aigis Legs v.100",
     "description": "The ultimate prototype leg parts for Aigis.",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 864,
-    "name": "Vamp Loafers",
+    "name": "Centurion",
     "description": "Supreme pitch-black leg parts for Metis.",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 865,
-    "name": "0x362",
+    "name": "Vamp Loafers",
     "description": "Comfortable leather shoes.",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 866,
-    "name": "0x363",
+    "name": "0x362",
     "description": "0x062",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 867,
-    "name": "0x364",
+    "name": "0x363",
     "description": "0x063",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 868,
-    "name": "0x365",
+    "name": "0x364",
     "description": "0x064",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 869,
-    "name": "0x366",
+    "name": "0x365",
     "description": "0x065",
     "type": 2,
     "is_debug": true
   },
   {
     "id": 870,
-    "name": "0x367",
+    "name": "0x366",
     "description": "0x066",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 871,
-    "name": "0x368",
+    "name": "0x367",
     "description": "0x067",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 872,
-    "name": "0x369",
+    "name": "0x368",
     "description": "0x068",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 873,
-    "name": "0x36A",
+    "name": "0x369",
     "description": "0x069",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 874,
-    "name": "0x36B",
+    "name": "0x36A",
     "description": "0x06A",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 875,
-    "name": "0x36C",
+    "name": "0x36B",
     "description": "0x06B",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 876,
-    "name": "0x36D",
+    "name": "0x36C",
     "description": "0x06C",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 877,
-    "name": "0x36E",
+    "name": "0x36D",
     "description": "0x06D",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 878,
-    "name": "0x36F",
+    "name": "0x36E",
     "description": "0x06E",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 879,
-    "name": "0x370",
+    "name": "0x36F",
     "description": "0x06F",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 880,
-    "name": "0x371",
+    "name": "0x370",
     "description": "0x070",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 881,
-    "name": "0x372",
+    "name": "0x371",
     "description": "0x071",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 882,
-    "name": "0x373",
+    "name": "0x372",
     "description": "0x072",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 883,
-    "name": "0x374",
+    "name": "0x373",
     "description": "0x073",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 884,
-    "name": "0x375",
+    "name": "0x374",
     "description": "0x074",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 885,
-    "name": "0x376",
+    "name": "0x375",
     "description": "0x075",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 886,
-    "name": "0x377",
+    "name": "0x376",
     "description": "0x076",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 887,
-    "name": "0x378",
+    "name": "0x377",
     "description": "0x077",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 888,
-    "name": "0x379",
+    "name": "0x378",
     "description": "0x078",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 889,
-    "name": "0x37A",
+    "name": "0x379",
     "description": "0x079",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 890,
-    "name": "0x37B",
+    "name": "0x37A",
     "description": "0x07A",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 891,
-    "name": "0x37C",
+    "name": "0x37B",
     "description": "0x07B",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 892,
-    "name": "0x37D",
+    "name": "0x37C",
     "description": "0x07C",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 893,
-    "name": "0x37E",
+    "name": "0x37D",
     "description": "0x07D",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 894,
-    "name": "0x37F",
+    "name": "0x37E",
     "description": "0x07E",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 895,
-    "name": "0x380",
+    "name": "0x37F",
     "description": "0x07F",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 896,
-    "name": "0x381",
+    "name": "0x380",
     "description": "0x080",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 897,
-    "name": "0x382",
+    "name": "0x381",
     "description": "0x081",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 898,
-    "name": "0x383",
+    "name": "0x382",
     "description": "0x082",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 899,
-    "name": "0x384",
+    "name": "0x383",
     "description": "0x083",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 900,
-    "name": "0x385",
+    "name": "0x384",
     "description": "0x084",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 901,
-    "name": "0x386",
+    "name": "0x385",
     "description": "0x085",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 902,
-    "name": "0x387",
+    "name": "0x386",
     "description": "0x086",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 903,
-    "name": "0x388",
+    "name": "0x387",
     "description": "0x087",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 904,
-    "name": "0x389",
+    "name": "0x388",
     "description": "0x088",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 905,
-    "name": "0x38A",
+    "name": "0x389",
     "description": "0x089",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 906,
-    "name": "0x38B",
+    "name": "0x38A",
     "description": "0x08A",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 907,
-    "name": "0x38C",
+    "name": "0x38B",
     "description": "0x08B",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 908,
-    "name": "0x38D",
+    "name": "0x38C",
     "description": "0x08C",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 909,
-    "name": "0x38E",
+    "name": "0x38D",
     "description": "0x08D",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 910,
-    "name": "0x38F",
+    "name": "0x38E",
     "description": "0x08E",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 911,
-    "name": "0x390",
+    "name": "0x38F",
     "description": "0x08F",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 912,
-    "name": "0x391",
+    "name": "0x390",
     "description": "0x090",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 913,
-    "name": "0x392",
+    "name": "0x391",
     "description": "0x091",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 914,
-    "name": "0x393",
+    "name": "0x392",
     "description": "0x092",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 915,
-    "name": "0x394",
+    "name": "0x393",
     "description": "0x093",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 916,
-    "name": "0x395",
+    "name": "0x394",
     "description": "0x094",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 917,
-    "name": "0x396",
+    "name": "0x395",
     "description": "0x095",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 918,
-    "name": "0x397",
+    "name": "0x396",
     "description": "0x096",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 919,
-    "name": "0x398",
+    "name": "0x397",
     "description": "0x097",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 920,
-    "name": "0x399",
+    "name": "0x398",
     "description": "0x098",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 921,
-    "name": "0x39A",
+    "name": "0x399",
     "description": "0x099",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 922,
-    "name": "0x39B",
+    "name": "0x39A",
     "description": "0x09A",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 923,
-    "name": "0x39C",
+    "name": "0x39B",
     "description": "0x09B",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 924,
-    "name": "0x39D",
+    "name": "0x39C",
     "description": "0x09C",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 925,
-    "name": "0x39E",
+    "name": "0x39D",
     "description": "0x09D",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 926,
-    "name": "0x39F",
+    "name": "0x39E",
     "description": "0x09E",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 927,
-    "name": "0x3A0",
+    "name": "0x39F",
     "description": "0x09F",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 928,
-    "name": "0x3A1",
+    "name": "0x3A0",
     "description": "0x0A0",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 929,
-    "name": "0x3A2",
+    "name": "0x3A1",
     "description": "0x0A1",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 930,
-    "name": "0x3A3",
+    "name": "0x3A2",
     "description": "0x0A2",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 931,
-    "name": "0x3A4",
+    "name": "0x3A3",
     "description": "0x0A3",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 932,
-    "name": "0x3A5",
+    "name": "0x3A4",
     "description": "0x0A4",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 933,
-    "name": "0x3A6",
+    "name": "0x3A5",
     "description": "0x0A5",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 934,
-    "name": "0x3A7",
+    "name": "0x3A6",
     "description": "0x0A6",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 935,
-    "name": "0x3A8",
+    "name": "0x3A7",
     "description": "0x0A7",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 936,
-    "name": "0x3A9",
+    "name": "0x3A8",
     "description": "0x0A8",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 937,
-    "name": "0x3AA",
+    "name": "0x3A9",
     "description": "0x0A9",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 938,
-    "name": "0x3AB",
+    "name": "0x3AA",
     "description": "0x0AA",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 939,
-    "name": "0x3AC",
+    "name": "0x3AB",
     "description": "0x0AB",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 940,
-    "name": "0x3AD",
+    "name": "0x3AC",
     "description": "0x0AC",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 941,
-    "name": "0x3AE",
+    "name": "0x3AD",
     "description": "0x0AD",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 942,
-    "name": "0x3AF",
+    "name": "0x3AE",
     "description": "0x0AE",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 943,
-    "name": "0x3B0",
+    "name": "0x3AF",
     "description": "0x0AF",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 944,
-    "name": "0x3B1",
+    "name": "0x3B0",
     "description": "0x0B0",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 945,
-    "name": "0x3B2",
+    "name": "0x3B1",
     "description": "0x0B1",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 946,
-    "name": "0x3B3",
+    "name": "0x3B2",
     "description": "0x0B2",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 947,
-    "name": "0x3B4",
+    "name": "0x3B3",
     "description": "0x0B3",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 948,
-    "name": "0x3B5",
+    "name": "0x3B4",
     "description": "0x0B4",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 949,
-    "name": "0x3B6",
+    "name": "0x3B5",
     "description": "0x0B5",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 950,
-    "name": "0x3B7",
+    "name": "0x3B6",
     "description": "0x0B6",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 951,
-    "name": "0x3B8",
+    "name": "0x3B7",
     "description": "0x0B7",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 952,
-    "name": "0x3B9",
+    "name": "0x3B8",
     "description": "0x0B8",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 953,
-    "name": "0x3BA",
+    "name": "0x3B9",
     "description": "0x0B9",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 954,
-    "name": "0x3BB",
+    "name": "0x3BA",
     "description": "0x0BA",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 955,
-    "name": "0x3BC",
+    "name": "0x3BB",
     "description": "0x0BB",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 956,
-    "name": "0x3BD",
+    "name": "0x3BC",
     "description": "0x0BC",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 957,
-    "name": "0x3BE",
+    "name": "0x3BD",
     "description": "0x0BD",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 958,
-    "name": "0x3BF",
+    "name": "0x3BE",
     "description": "0x0BE",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 959,
-    "name": "0x3C0",
+    "name": "0x3BF",
     "description": "0x0BF",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 960,
-    "name": "0x3C1",
+    "name": "0x3C0",
     "description": "0x0C0",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 961,
-    "name": "0x3C2",
+    "name": "0x3C1",
     "description": "0x0C1",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 962,
-    "name": "0x3C3",
+    "name": "0x3C2",
     "description": "0x0C2",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 963,
-    "name": "0x3C4",
+    "name": "0x3C3",
     "description": "0x0C3",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 964,
-    "name": "0x3C5",
+    "name": "0x3C4",
     "description": "0x0C4",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 965,
-    "name": "0x3C6",
+    "name": "0x3C5",
     "description": "0x0C5",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 966,
-    "name": "0x3C7",
+    "name": "0x3C6",
     "description": "0x0C6",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 967,
-    "name": "0x3C8",
+    "name": "0x3C7",
     "description": "0x0C7",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 968,
-    "name": "0x3C9",
+    "name": "0x3C8",
     "description": "0x0C8",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 969,
-    "name": "0x3CA",
+    "name": "0x3C9",
     "description": "0x0C9",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 970,
-    "name": "0x3CB",
+    "name": "0x3CA",
     "description": "0x0CA",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 971,
-    "name": "0x3CC",
+    "name": "0x3CB",
     "description": "0x0CB",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 972,
-    "name": "0x3CD",
+    "name": "0x3CC",
     "description": "0x0CC",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 973,
-    "name": "0x3CE",
+    "name": "0x3CD",
     "description": "0x0CD",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 974,
-    "name": "0x3CF",
+    "name": "0x3CE",
     "description": "0x0CE",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 975,
-    "name": "0x3D0",
+    "name": "0x3CF",
     "description": "0x0CF",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 976,
-    "name": "0x3D1",
+    "name": "0x3D0",
     "description": "0x0D0",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 977,
-    "name": "0x3D2",
+    "name": "0x3D1",
     "description": "0x0D1",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 978,
-    "name": "0x3D3",
+    "name": "0x3D2",
     "description": "0x0D2",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 979,
-    "name": "0x3D4",
+    "name": "0x3D3",
     "description": "0x0D3",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 980,
-    "name": "0x3D5",
+    "name": "0x3D4",
     "description": "0x0D4",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 981,
-    "name": "0x3D6",
+    "name": "0x3D5",
     "description": "0x0D5",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 982,
-    "name": "0x3D7",
+    "name": "0x3D6",
     "description": "0x0D6",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 983,
-    "name": "0x3D8",
+    "name": "0x3D7",
     "description": "0x0D7",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 984,
-    "name": "0x3D9",
+    "name": "0x3D8",
     "description": "0x0D8",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 985,
-    "name": "0x3DA",
+    "name": "0x3D9",
     "description": "0x0D9",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 986,
-    "name": "0x3DB",
+    "name": "0x3DA",
     "description": "0x0DA",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 987,
-    "name": "0x3DC",
+    "name": "0x3DB",
     "description": "0x0DB",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 988,
-    "name": "0x3DD",
+    "name": "0x3DC",
     "description": "0x0DC",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 989,
-    "name": "0x3DE",
+    "name": "0x3DD",
     "description": "0x0DD",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 990,
-    "name": "0x3DF",
+    "name": "0x3DE",
     "description": "0x0DE",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 991,
-    "name": "0x3E0",
+    "name": "0x3DF",
     "description": "0x0DF",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 992,
-    "name": "0x3E1",
+    "name": "0x3E0",
     "description": "0x0E0",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 993,
-    "name": "0x3E2",
+    "name": "0x3E1",
     "description": "0x0E1",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 994,
-    "name": "0x3E3",
+    "name": "0x3E2",
     "description": "0x0E2",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 995,
-    "name": "0x3E4",
+    "name": "0x3E3",
     "description": "0x0E3",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 996,
-    "name": "0x3E5",
+    "name": "0x3E4",
     "description": "0x0E4",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 997,
-    "name": "0x3E6",
+    "name": "0x3E5",
     "description": "0x0E5",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 998,
-    "name": "0x3E7",
+    "name": "0x3E6",
     "description": "0x0E6",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 999,
-    "name": "0x3E8",
+    "name": "0x3E7",
     "description": "0x0E7",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 1000,
-    "name": "0x3E9",
+    "name": "0x3E8",
     "description": "0x0E8",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 1001,
-    "name": "0x3EA",
+    "name": "0x3E9",
     "description": "0x0E9",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 1002,
-    "name": "0x3EB",
+    "name": "0x3EA",
     "description": "0x0EA",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 1003,
-    "name": "0x3EC",
+    "name": "0x3EB",
     "description": "0x0EB",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 1004,
-    "name": "0x3ED",
+    "name": "0x3EC",
     "description": "0x0EC",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 1005,
-    "name": "0x3EE",
+    "name": "0x3ED",
     "description": "0x0ED",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 1006,
-    "name": "0x3EF",
+    "name": "0x3EE",
     "description": "0x0EE",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 1007,
-    "name": "0x3F0",
+    "name": "0x3EF",
     "description": "0x0EF",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 1008,
-    "name": "0x3F1",
+    "name": "0x3F0",
     "description": "0x0F0",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 1009,
-    "name": "0x3F2",
+    "name": "0x3F1",
     "description": "0x0F1",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 1010,
-    "name": "0x3F3",
+    "name": "0x3F2",
     "description": "0x0F2",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 1011,
-    "name": "0x3F4",
+    "name": "0x3F3",
     "description": "0x0F3",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 1012,
-    "name": "0x3F5",
+    "name": "0x3F4",
     "description": "0x0F4",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 1013,
-    "name": "0x3F6",
+    "name": "0x3F5",
     "description": "0x0F5",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 1014,
-    "name": "0x3F7",
+    "name": "0x3F6",
     "description": "0x0F6",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 1015,
-    "name": "0x3F8",
+    "name": "0x3F7",
     "description": "0x0F7",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 1016,
-    "name": "0x3F9",
+    "name": "0x3F8",
     "description": "0x0F8",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 1017,
-    "name": "0x3FA",
+    "name": "0x3F9",
     "description": "0x0F9",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 1018,
-    "name": "0x3FB",
+    "name": "0x3FA",
     "description": "0x0FA",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 1019,
-    "name": "0x3FC",
+    "name": "0x3FB",
     "description": "0x0FB",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 1020,
-    "name": "0x3FD",
+    "name": "0x3FC",
     "description": "0x0FC",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 1021,
-    "name": "0x3FE",
+    "name": "0x3FD",
     "description": "0x0FD",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 1022,
-    "name": "0x3FF",
+    "name": "0x3FE",
     "description": "0x0FE",
     "type": 3,
     "is_debug": true
   },
   {
     "id": 1023,
-    "name": "0x2FF",
+    "name": "0x3FF",
     "description": "0x0FF",
     "type": 3,
     "is_debug": true
@@ -11761,2575 +11761,1791 @@
   },
   {
     "id": 1680,
-    "name": "BLANK",
-    "description": "eventitem_144",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1681,
-    "name": "BLANK",
-    "description": "eventitem_145",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1682,
-    "name": "BLANK",
-    "description": "eventitem_146",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1683,
-    "name": "BLANK",
-    "description": "eventitem_147",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1684,
-    "name": "BLANK",
-    "description": "eventitem_148",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1685,
-    "name": "BLANK",
-    "description": "eventitem_149",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1686,
-    "name": "BLANK",
-    "description": "eventitem_150",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1687,
-    "name": "BLANK",
-    "description": "eventitem_151",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1688,
-    "name": "BLANK",
-    "description": "eventitem_152",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1689,
-    "name": "BLANK",
-    "description": "eventitem_153",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1690,
-    "name": "BLANK",
-    "description": "eventitem_154",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1691,
-    "name": "BLANK",
-    "description": "eventitem_155",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1692,
-    "name": "BLANK",
-    "description": "eventitem_156",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1693,
-    "name": "BLANK",
-    "description": "eventitem_157",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1694,
-    "name": "BLANK",
-    "description": "eventitem_158",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1695,
-    "name": "BLANK",
-    "description": "eventitem_159",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1696,
-    "name": "BLANK",
-    "description": "eventitem_160",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1697,
-    "name": "BLANK",
-    "description": "eventitem_161",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1698,
-    "name": "BLANK",
-    "description": "eventitem_162",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1699,
-    "name": "BLANK",
-    "description": "eventitem_163",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1700,
-    "name": "BLANK",
-    "description": "eventitem_164",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1701,
-    "name": "BLANK",
-    "description": "eventitem_165",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1702,
-    "name": "BLANK",
-    "description": "eventitem_166",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1703,
-    "name": "BLANK",
-    "description": "eventitem_167",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1704,
-    "name": "BLANK",
-    "description": "eventitem_168",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1705,
-    "name": "BLANK",
-    "description": "eventitem_169",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1706,
-    "name": "BLANK",
-    "description": "eventitem_170",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1707,
-    "name": "BLANK",
-    "description": "eventitem_171",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1708,
-    "name": "BLANK",
-    "description": "eventitem_172",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1709,
-    "name": "BLANK",
-    "description": "eventitem_173",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1710,
-    "name": "BLANK",
-    "description": "eventitem_174",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1711,
-    "name": "BLANK",
-    "description": "eventitem_175",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1712,
-    "name": "BLANK",
-    "description": "eventitem_176",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1713,
-    "name": "BLANK",
-    "description": "eventitem_177",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1714,
-    "name": "BLANK",
-    "description": "eventitem_178",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1715,
-    "name": "BLANK",
-    "description": "eventitem_179",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1716,
-    "name": "BLANK",
-    "description": "eventitem_180",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1717,
-    "name": "BLANK",
-    "description": "eventitem_181",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1718,
-    "name": "BLANK",
-    "description": "eventitem_182",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1719,
-    "name": "BLANK",
-    "description": "eventitem_183",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1720,
-    "name": "BLANK",
-    "description": "eventitem_184",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1721,
-    "name": "BLANK",
-    "description": "eventitem_185",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1722,
-    "name": "BLANK",
-    "description": "eventitem_186",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1723,
-    "name": "BLANK",
-    "description": "eventitem_187",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1724,
-    "name": "BLANK",
-    "description": "eventitem_188",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1725,
-    "name": "BLANK",
-    "description": "eventitem_189",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1726,
-    "name": "BLANK",
-    "description": "eventitem_190",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1727,
-    "name": "BLANK",
-    "description": "eventitem_191",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1728,
-    "name": "BLANK",
-    "description": "eventitem_192",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1729,
-    "name": "BLANK",
-    "description": "eventitem_193",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1730,
-    "name": "BLANK",
-    "description": "eventitem_194",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1731,
-    "name": "BLANK",
-    "description": "eventitem_195",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1732,
-    "name": "BLANK",
-    "description": "eventitem_196",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1733,
-    "name": "BLANK",
-    "description": "eventitem_197",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1734,
-    "name": "BLANK",
-    "description": "eventitem_198",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1735,
-    "name": "BLANK",
-    "description": "eventitem_199",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1736,
-    "name": "BLANK",
-    "description": "eventitem_200",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1737,
-    "name": "BLANK",
-    "description": "eventitem_201",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1738,
-    "name": "BLANK",
-    "description": "eventitem_202",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1739,
-    "name": "BLANK",
-    "description": "eventitem_203",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1740,
-    "name": "BLANK",
-    "description": "eventitem_204",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1741,
-    "name": "BLANK",
-    "description": "eventitem_205",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1742,
-    "name": "BLANK",
-    "description": "eventitem_206",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1743,
-    "name": "BLANK",
-    "description": "eventitem_207",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1744,
-    "name": "BLANK",
-    "description": "eventitem_208",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1745,
-    "name": "BLANK",
-    "description": "eventitem_209",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1746,
-    "name": "BLANK",
-    "description": "eventitem_210",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1747,
-    "name": "BLANK",
-    "description": "eventitem_211",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1748,
-    "name": "BLANK",
-    "description": "eventitem_213",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1749,
-    "name": "BLANK",
-    "description": "eventitem_214",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1750,
-    "name": "BLANK",
-    "description": "eventitem_215",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1751,
-    "name": "BLANK",
-    "description": "eventitem_216",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1752,
-    "name": "BLANK",
-    "description": "eventitem_217",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1753,
-    "name": "BLANK",
-    "description": "eventitem_218",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1754,
-    "name": "BLANK",
-    "description": "eventitem_219",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1755,
-    "name": "BLANK",
-    "description": "eventitem_220",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1756,
-    "name": "BLANK",
-    "description": "eventitem_221",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1757,
-    "name": "BLANK",
-    "description": "eventitem_222",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1758,
-    "name": "BLANK",
-    "description": "eventitem_223",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1759,
-    "name": "BLANK",
-    "description": "eventitem_224",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1760,
-    "name": "BLANK",
-    "description": "eventitem_225",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1761,
-    "name": "BLANK",
-    "description": "eventitem_226",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1762,
-    "name": "BLANK",
-    "description": "eventitem_227",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1763,
-    "name": "BLANK",
-    "description": "eventitem_228",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1764,
-    "name": "BLANK",
-    "description": "eventitem_229",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1765,
-    "name": "BLANK",
-    "description": "eventitem_230",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1766,
-    "name": "BLANK",
-    "description": "eventitem_231",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1767,
-    "name": "BLANK",
-    "description": "eventitem_232",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1768,
-    "name": "BLANK",
-    "description": "eventitem_233",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1769,
-    "name": "BLANK",
-    "description": "eventitem_234",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1770,
-    "name": "BLANK",
-    "description": "eventitem_235",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1771,
-    "name": "BLANK",
-    "description": "eventitem_236",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1772,
-    "name": "BLANK",
-    "description": "eventitem_237",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1773,
-    "name": "BLANK",
-    "description": "eventitem_238",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1774,
-    "name": "BLANK",
-    "description": "eventitem_239",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1775,
-    "name": "BLANK",
-    "description": "eventitem_240",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1776,
-    "name": "BLANK",
-    "description": "eventitem_241",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1777,
-    "name": "BLANK",
-    "description": "eventitem_242",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1778,
-    "name": "BLANK",
-    "description": "eventitem_243",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1779,
-    "name": "BLANK",
-    "description": "eventitem_244",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1780,
-    "name": "BLANK",
-    "description": "eventitem_245",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1781,
-    "name": "BLANK",
-    "description": "eventitem_246",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1782,
-    "name": "BLANK",
-    "description": "eventitem_247",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1783,
-    "name": "BLANK",
-    "description": "eventitem_249",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1784,
-    "name": "BLANK",
-    "description": "eventitem_250",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1785,
-    "name": "BLANK",
-    "description": "eventitem_251",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1786,
-    "name": "BLANK",
-    "description": "eventitem_252",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1787,
-    "name": "BLANK",
-    "description": "eventitem_253",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1788,
-    "name": "BLANK",
-    "description": "eventitem_254",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1789,
-    "name": "BLANK",
-    "description": "eventitem_255",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1790,
-    "name": "BLANK",
-    "description": "eventitem_256",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1791,
-    "name": "BLANK",
-    "description": "eventitem_257",
-    "type": 12,
-    "is_debug": true
-  },
-  {
-    "id": 1792,
     "name": "Agi",
     "description": "Skill Card that bestows Agi.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1793,
+    "id": 1681,
     "name": "Agilao",
     "description": "Skill Card that bestows Agilao.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1794,
+    "id": 1682,
     "name": "Agidyne",
     "description": "Skill Card that bestows Agidyne.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1795,
+    "id": 1683,
     "name": "Maragi",
     "description": "Skill Card that bestows Maragi.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1796,
+    "id": 1684,
     "name": "Maragilao",
     "description": "Skill Card that bestows Maragilao.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1797,
+    "id": 1685,
     "name": "Maragidyne",
     "description": "Skill Card that bestows Maragidyne.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1798,
+    "id": 1686,
     "name": "Maralagidyne",
     "description": "Skill Card that bestows Maralagidyne.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1799,
+    "id": 1687,
     "name": "Garu",
     "description": "Skill Card that bestows Garu.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1800,
+    "id": 1688,
     "name": "Garula",
     "description": "Skill Card that bestows Garula.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1801,
+    "id": 1689,
     "name": "Garudyne",
     "description": "Skill Card that bestows Garudyne.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1802,
+    "id": 1690,
     "name": "Magaru",
     "description": "Skill Card that bestows Magaru.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1803,
+    "id": 1691,
     "name": "Magarula",
     "description": "Skill Card that bestows Magarula.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1804,
+    "id": 1692,
     "name": "Magarudyne",
     "description": "Skill Card that bestows Magarudyne.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1805,
+    "id": 1693,
     "name": "Bufu",
     "description": "Skill Card that bestows Bufu.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1806,
+    "id": 1694,
     "name": "Bufula",
     "description": "Skill Card that bestows Bufula.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1807,
+    "id": 1695,
     "name": "Bufudyne",
     "description": "Skill Card that bestows Bufudyne.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1808,
+    "id": 1696,
     "name": "Mabufu",
     "description": "Skill Card that bestows Mabufu.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1809,
+    "id": 1697,
     "name": "Mabufula",
     "description": "Skill Card that bestows Mabufula.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1810,
+    "id": 1698,
     "name": "Mabufudyne",
     "description": "Skill Card that bestows Mabufudyne.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1811,
+    "id": 1699,
     "name": "Zio",
     "description": "Skill Card that bestows Zio.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1812,
+    "id": 1700,
     "name": "Zionga",
     "description": "Skill Card that bestows Zionga.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1813,
+    "id": 1701,
     "name": "Ziodyne",
     "description": "Skill Card that bestows Ziodyne.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1814,
+    "id": 1702,
     "name": "Mazio",
     "description": "Skill Card that bestows Mazio.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1815,
+    "id": 1703,
     "name": "Mazionga",
     "description": "Skill Card that bestows Mazionga.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1816,
+    "id": 1704,
     "name": "Maziodyne",
     "description": "Skill Card that bestows Maziodyne.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1817,
+    "id": 1705,
     "name": "Megido",
     "description": "Skill Card that bestows Megido.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1818,
+    "id": 1706,
     "name": "Megidola",
     "description": "Skill Card that bestows Megidola.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1819,
+    "id": 1707,
     "name": "Megidolaon",
     "description": "Skill Card that bestows Megidolaon.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1820,
+    "id": 1708,
     "name": "Hama",
     "description": "Skill Card that bestows Hama.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1821,
+    "id": 1709,
     "name": "Mahama",
     "description": "Skill Card that bestows Mahama.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1822,
+    "id": 1710,
     "name": "Hamaon",
     "description": "Skill Card that bestows Hamaon.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1823,
+    "id": 1711,
     "name": "Mahamaon",
     "description": "Skill Card that bestows Mahamaon.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1824,
+    "id": 1712,
     "name": "Mudo",
     "description": "Skill Card that bestows Mudo.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1825,
+    "id": 1713,
     "name": "Mamudo",
     "description": "Skill Card that bestows Mamudo.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1826,
+    "id": 1714,
     "name": "Mudoon",
     "description": "Skill Card that bestows Mudoon.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1827,
+    "id": 1715,
     "name": "Mamudoon",
     "description": "Skill Card that bestows Mamudoon.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1828,
+    "id": 1716,
     "name": "Marin Karin",
     "description": "Skill Card that bestows Marin Karin.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1829,
+    "id": 1717,
     "name": "Sexy Dance",
     "description": "Skill Card that bestows Sexy Dance.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1830,
+    "id": 1718,
     "name": "Bewilder",
     "description": "Skill Card that bestows Bewilder.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1831,
+    "id": 1719,
     "name": "Eerie Sound",
     "description": "Skill Card that bestows Eerie Sound.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1832,
+    "id": 1720,
     "name": "Pulinpa",
     "description": "Skill Card that bestows Pulinpa.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1833,
+    "id": 1721,
     "name": "Tentarafoo",
     "description": "Skill Card that bestows Tentarafoo.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1834,
+    "id": 1722,
     "name": "Evil Touch",
     "description": "Skill Card that bestows Evil Touch.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1835,
+    "id": 1723,
     "name": "Evil Smile",
     "description": "Skill Card that bestows Evil Smile.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1836,
+    "id": 1724,
     "name": "Ghastly Wail",
     "description": "Skill Card that bestows Ghastly Wail.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1837,
+    "id": 1725,
     "name": "Provoke",
     "description": "Skill Card that bestows Provoke.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1838,
+    "id": 1726,
     "name": "Infuriate",
     "description": "Skill Card that bestows Infuriate.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1839,
+    "id": 1727,
     "name": "Poisma",
     "description": "Skill Card that bestows Poisma.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1840,
+    "id": 1728,
     "name": "Poison Mist",
     "description": "Skill Card that bestows Poison Mist.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1841,
+    "id": 1729,
     "name": "Virus Breath",
     "description": "Skill Card that bestows Virus Breath.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1842,
+    "id": 1730,
     "name": "Foul Breath",
     "description": "Skill Card that bestows Foul Breath.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1843,
+    "id": 1731,
     "name": "Stagnant Air",
     "description": "Skill Card that bestows Stagnant Air.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1844,
+    "id": 1732,
     "name": "Life Drain",
     "description": "Skill Card that bestows Life Drain.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1845,
+    "id": 1733,
     "name": "Spirit Drain",
     "description": "Skill Card that bestows Spirit Drain.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1846,
+    "id": 1734,
     "name": "Bash",
     "description": "Skill Card that bestows Bash.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1847,
+    "id": 1735,
     "name": "Assault Dive",
     "description": "Skill Card that bestows Assault Dive.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1848,
+    "id": 1736,
     "name": "Kill Rush",
     "description": "Skill Card that bestows Kill Rush.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1849,
+    "id": 1737,
     "name": "Swift Strike",
     "description": "Skill Card that bestows Swift Strike.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1850,
+    "id": 1738,
     "name": "Sonic Punch",
     "description": "Skill Card that bestows Sonic Punch.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1851,
+    "id": 1739,
     "name": "Heat Wave",
     "description": "Skill Card that bestows Heat Wave.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1852,
+    "id": 1740,
     "name": "Gigantic Fist",
     "description": "Skill Card that bestows Gigantic Fist.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1853,
+    "id": 1741,
     "name": "Akasha Arts",
     "description": "Skill Card that bestows Akasha Arts.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1854,
+    "id": 1742,
     "name": "God's Hand",
     "description": "Skill Card that bestows God's Hand.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1855,
+    "id": 1743,
     "name": "Cleave",
     "description": "Skill Card that bestows Cleave.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1856,
+    "id": 1744,
     "name": "Fatal End",
     "description": "Skill Card that bestows Fatal End.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1857,
+    "id": 1745,
     "name": "Getsu-ei",
     "description": "Skill Card that bestows Getsu-ei.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1858,
+    "id": 1746,
     "name": "Zan-ei",
     "description": "Skill Card that bestows Zan-ei.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1859,
+    "id": 1747,
     "name": "Mighty Swing",
     "description": "Skill Card that bestows Mighty Swing.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1860,
+    "id": 1748,
     "name": "Double Fangs",
     "description": "Skill Card that bestows Double Fangs.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1861,
+    "id": 1749,
     "name": "Blade of Fury",
     "description": "Skill Card that bestows Blade of Fury.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1862,
+    "id": 1750,
     "name": "Deathbound",
     "description": "Skill Card that bestows Deathbound.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1863,
+    "id": 1751,
     "name": "Tempest Slash",
     "description": "Skill Card that bestows Tempest Slash.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1864,
+    "id": 1752,
     "name": "Heaven's Blade",
     "description": "Skill Card that bestows Heaven's Blade.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1865,
+    "id": 1753,
     "name": "Pralaya",
     "description": "Skill Card that bestows Pralaya.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1866,
+    "id": 1754,
     "name": "Power Slash",
     "description": "Skill Card that bestows Power Slash.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1867,
+    "id": 1755,
     "name": "Gale Slash",
     "description": "Skill Card that bestows Gale Slash.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1868,
+    "id": 1756,
     "name": "Brave Blade",
     "description": "Skill Card that bestows Brave Blade.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1869,
+    "id": 1757,
     "name": "Herculean Strike",
     "description": "Skill Card that bestows Herculean Strike.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1870,
+    "id": 1758,
     "name": "Vicious Strike",
     "description": "Skill Card that bestows Vicious Strike.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1871,
+    "id": 1759,
     "name": "Single Shot",
     "description": "Skill Card that bestows Single Shot.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1872,
+    "id": 1760,
     "name": "Twin Shot",
     "description": "Skill Card that bestows Twin Shot.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1873,
+    "id": 1761,
     "name": "Holy Arrow",
     "description": "Skill Card that bestows Holy Arrow.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1874,
+    "id": 1762,
     "name": "Torrent Shot",
     "description": "Skill Card that bestows Torrent Shot.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1875,
+    "id": 1763,
     "name": "Arrow Rain",
     "description": "Skill Card that bestows Arrow Rain.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1876,
+    "id": 1764,
     "name": "Myriad Arrows",
     "description": "Skill Card that bestows Myriad Arrows.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1877,
+    "id": 1765,
     "name": "Primal Force",
     "description": "Skill Card that bestows Primal Force.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1878,
+    "id": 1766,
     "name": "Vorpal Blade",
     "description": "Skill Card that bestows Vorpal Blade.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1879,
+    "id": 1767,
     "name": "Weary Thrust",
     "description": "Skill Card that bestows Weary Thrust.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1880,
+    "id": 1768,
     "name": "Cruel Attack",
     "description": "Skill Card that bestows Cruel Attack.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1881,
+    "id": 1769,
     "name": "Vile Assault",
     "description": "Skill Card that bestows Vile Assault.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1882,
+    "id": 1770,
     "name": "Poison Arrow",
     "description": "Skill Card that bestows Poison Arrow.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1883,
+    "id": 1771,
     "name": "Dia",
     "description": "Skill Card that bestows Dia.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1884,
+    "id": 1772,
     "name": "Diarama",
     "description": "Skill Card that bestows Diarama.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1885,
+    "id": 1773,
     "name": "Diarahan",
     "description": "Skill Card that bestows Diarahan.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1886,
+    "id": 1774,
     "name": "Media",
     "description": "Skill Card that bestows Media.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1887,
+    "id": 1775,
     "name": "Mediarama",
     "description": "Skill Card that bestows Mediarama.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1888,
+    "id": 1776,
     "name": "Mediarahan",
     "description": "Skill Card that bestows Mediarahan.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1889,
+    "id": 1777,
     "name": "Salvation",
     "description": "Skill Card that bestows Salvation.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1890,
+    "id": 1778,
     "name": "Patra",
     "description": "Skill Card that bestows Patra.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1891,
+    "id": 1779,
     "name": "Me Patra",
     "description": "Skill Card that bestows Me Patra.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1892,
+    "id": 1780,
     "name": "Re Patra",
     "description": "Skill Card that bestows Re Patra.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1893,
+    "id": 1781,
     "name": "Posumudi",
     "description": "Skill Card that bestows Posumudi.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1894,
+    "id": 1782,
     "name": "Amrita",
     "description": "Skill Card that bestows Amrita.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1895,
+    "id": 1783,
     "name": "Recarm",
     "description": "Skill Card that bestows Recarm.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1896,
+    "id": 1784,
     "name": "Samarecarm",
     "description": "Skill Card that bestows Samarecarm.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1897,
+    "id": 1785,
     "name": "Tarunda",
     "description": "Skill Card that bestows Tarunda.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1898,
+    "id": 1786,
     "name": "Matarunda",
     "description": "Skill Card that bestows Matarunda.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1899,
+    "id": 1787,
     "name": "Sukunda",
     "description": "Skill Card that bestows Sukunda.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1900,
+    "id": 1788,
     "name": "Masukunda",
     "description": "Skill Card that bestows Masukunda.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1901,
+    "id": 1789,
     "name": "Rakunda",
     "description": "Skill Card that bestows Rakunda.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1902,
+    "id": 1790,
     "name": "Marakunda",
     "description": "Skill Card that bestows Marakunda.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1903,
+    "id": 1791,
     "name": "Dekunda",
     "description": "Skill Card that bestows Dekunda.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1904,
+    "id": 1792,
     "name": "Tarukaja",
     "description": "Skill Card that bestows Tarukaja.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1905,
+    "id": 1793,
     "name": "Matarukaja",
     "description": "Skill Card that bestows Matarukaja.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1906,
+    "id": 1794,
     "name": "Sukukaja",
     "description": "Skill Card that bestows Sukukaja.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1907,
+    "id": 1795,
     "name": "Masukukaja",
     "description": "Skill Card that bestows Masukukaja.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1908,
+    "id": 1796,
     "name": "Rakukaja",
     "description": "Skill Card that bestows Rakukaja.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1909,
+    "id": 1797,
     "name": "Marakukaja",
     "description": "Skill Card that bestows Marakukaja.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1910,
+    "id": 1798,
     "name": "Power Charge",
     "description": "Skill Card that bestows Power Charge.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1911,
+    "id": 1799,
     "name": "Mind Charge",
     "description": "Skill Card that bestows Mind Charge.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1912,
+    "id": 1800,
     "name": "Dekaja",
     "description": "Skill Card that bestows Dekaja.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1913,
+    "id": 1801,
     "name": "Tetrakarn",
     "description": "Skill Card that bestows Tetrakarn.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1914,
+    "id": 1802,
     "name": "Makarakarn",
     "description": "Skill Card that bestows Makarakarn.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1915,
+    "id": 1803,
     "name": "Rebellion",
     "description": "Skill Card that bestows Rebellion.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1916,
+    "id": 1804,
     "name": "Revolution",
     "description": "Skill Card that bestows Revolution.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1917,
+    "id": 1805,
     "name": "Fire Break",
     "description": "Skill Card that bestows Fire Break.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1918,
+    "id": 1806,
     "name": "Ice Break",
     "description": "Skill Card that bestows Ice Break.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1919,
+    "id": 1807,
     "name": "Wind Break",
     "description": "Skill Card that bestows Wind Break.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1920,
+    "id": 1808,
     "name": "Elec Break",
     "description": "Skill Card that bestows Elec Break.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1921,
+    "id": 1809,
     "name": "Trafuri",
     "description": "Skill Card that bestows Trafuri.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1922,
+    "id": 1810,
     "name": "Recarmdra",
     "description": "Skill Card that bestows Recarmdra.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1923,
+    "id": 1811,
     "name": "Charmdi",
     "description": "Skill Card that bestows Charmdi.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1924,
+    "id": 1812,
     "name": "Enradi",
     "description": "Skill Card that bestows Enradi.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1925,
+    "id": 1813,
     "name": "Resist Slash",
     "description": "Skill Card that bestows Resist Slash.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1926,
+    "id": 1814,
     "name": "Null Slash",
     "description": "Skill Card that bestows Null Slash.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1927,
+    "id": 1815,
     "name": "Repel Slash",
     "description": "Skill Card that bestows Repel Slash.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1928,
+    "id": 1816,
     "name": "Absorb Slash",
     "description": "Skill Card that bestows Absorb Slash.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1929,
+    "id": 1817,
     "name": "Resist Strike",
     "description": "Skill Card that bestows Resist Strike.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1930,
+    "id": 1818,
     "name": "Null Strike",
     "description": "Skill Card that bestows Null Strike.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1931,
+    "id": 1819,
     "name": "Repel Strike",
     "description": "Skill Card that bestows Repel Strike.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1932,
+    "id": 1820,
     "name": "Absorb Strike",
     "description": "Skill Card that bestows Absorb Strike.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1933,
+    "id": 1821,
     "name": "Resist Pierce",
     "description": "Skill Card that bestows Resist Pierce.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1934,
+    "id": 1822,
     "name": "Null Pierce",
     "description": "Skill Card that bestows Null Pierce.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1935,
+    "id": 1823,
     "name": "Repel Pierce",
     "description": "Skill Card that bestows Repel Pierce.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1936,
+    "id": 1824,
     "name": "Absorb Pierce",
     "description": "Skill Card that bestows Absorb Pierce.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1937,
+    "id": 1825,
     "name": "Resist Fire",
     "description": "Skill Card that bestows Resist Fire.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1938,
+    "id": 1826,
     "name": "Null Fire",
     "description": "Skill Card that bestows Null Fire.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1939,
+    "id": 1827,
     "name": "Repel Fire",
     "description": "Skill Card that bestows Repel Fire.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1940,
+    "id": 1828,
     "name": "Absorb Fire",
     "description": "Skill Card that bestows Absorb Fire.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1941,
+    "id": 1829,
     "name": "Resist Ice",
     "description": "Skill Card that bestows Resist Ice.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1942,
+    "id": 1830,
     "name": "Null Ice",
     "description": "Skill Card that bestows Null Ice.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1943,
+    "id": 1831,
     "name": "Repel Ice",
     "description": "Skill Card that bestows Repel Ice.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1944,
+    "id": 1832,
     "name": "Absorb Ice",
     "description": "Skill Card that bestows Absorb Ice.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1945,
+    "id": 1833,
     "name": "Resist Elec",
     "description": "Skill Card that bestows Resist Elec.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1946,
+    "id": 1834,
     "name": "Null Elec",
     "description": "Skill Card that bestows Null Elec.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1947,
+    "id": 1835,
     "name": "Repel Elec",
     "description": "Skill Card that bestows Repel Elec.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1948,
+    "id": 1836,
     "name": "Absorb Elec",
     "description": "Skill Card that bestows Absorb Elec.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1949,
+    "id": 1837,
     "name": "Resist Wind",
     "description": "Skill Card that bestows Resist Wind.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1950,
+    "id": 1838,
     "name": "Null Wind",
     "description": "Skill Card that bestows Null Wind.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1951,
+    "id": 1839,
     "name": "Repel Wind",
     "description": "Skill Card that bestows Repel Wind.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1952,
+    "id": 1840,
     "name": "Absorb Wind",
     "description": "Skill Card that bestows Absorb Wind.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1953,
+    "id": 1841,
     "name": "Resist Light",
     "description": "Skill Card that bestows Resist Light.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1954,
+    "id": 1842,
     "name": "Null Light",
     "description": "Skill Card that bestows Null Light.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1955,
+    "id": 1843,
     "name": "Repel Light",
     "description": "Skill Card that bestows Repel Light.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1956,
+    "id": 1844,
     "name": "Resist Dark",
     "description": "Skill Card that bestows Resist Dark.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1957,
+    "id": 1845,
     "name": "Null Dark",
     "description": "Skill Card that bestows Null Dark.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1958,
+    "id": 1846,
     "name": "Repel Dark",
     "description": "Skill Card that bestows Repel Dark.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1959,
+    "id": 1847,
     "name": "Null Charm",
     "description": "Skill Card that bestows Null Charm.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1960,
+    "id": 1848,
     "name": "Null Distress",
     "description": "Skill Card that bestows Null Distress.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1961,
+    "id": 1849,
     "name": "Null Panic",
     "description": "Skill Card that bestows Null Panic.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1962,
+    "id": 1850,
     "name": "Null Fear",
     "description": "Skill Card that bestows Null Fear.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1963,
+    "id": 1851,
     "name": "Null Rage",
     "description": "Skill Card that bestows Null Rage.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1964,
+    "id": 1852,
     "name": "Null Freeze",
     "description": "Skill Card that bestows Null Freeze.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1965,
+    "id": 1853,
     "name": "Null Shock",
     "description": "Skill Card that bestows Null Shock.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1966,
+    "id": 1854,
     "name": "Null Poison",
     "description": "Skill Card that bestows Null Poison.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1967,
+    "id": 1855,
     "name": "Unshaken Will",
     "description": "Skill Card that bestows Unshaken Will.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1968,
+    "id": 1856,
     "name": "Dodge Slash",
     "description": "Skill Card that bestows Dodge Slash.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1969,
+    "id": 1857,
     "name": "Evade Slash",
     "description": "Skill Card that bestows Evade Slash.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1970,
+    "id": 1858,
     "name": "Dodge Strike",
     "description": "Skill Card that bestows Dodge Strike.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1971,
+    "id": 1859,
     "name": "Evade Strike",
     "description": "Skill Card that bestows Evade Strike.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1972,
+    "id": 1860,
     "name": "Dodge Pierce",
     "description": "Skill Card that bestows Dodge Pierce.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1973,
+    "id": 1861,
     "name": "Evade Pierce",
     "description": "Skill Card that bestows Evade Pierce.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1974,
+    "id": 1862,
     "name": "Dodge Fire",
     "description": "Skill Card that bestows Dodge Fire.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1975,
+    "id": 1863,
     "name": "Evade Fire",
     "description": "Skill Card that bestows Evade Fire.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1976,
+    "id": 1864,
     "name": "Dodge Ice",
     "description": "Skill Card that bestows Dodge Ice.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1977,
+    "id": 1865,
     "name": "Evade Ice",
     "description": "Skill Card that bestows Evade Ice.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1978,
+    "id": 1866,
     "name": "Dodge Wind",
     "description": "Skill Card that bestows Dodge Wind.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1979,
+    "id": 1867,
     "name": "Evade Wind",
     "description": "Skill Card that bestows Evade Wind.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1980,
+    "id": 1868,
     "name": "Dodge Elec",
     "description": "Skill Card that bestows Dodge Elec.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1981,
+    "id": 1869,
     "name": "Evade Elec",
     "description": "Skill Card that bestows Evade Elec.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1982,
+    "id": 1870,
     "name": "Premonition",
     "description": "Skill Card that bestows Premonition.",
     "type": 14,
     "is_debug": true
   },
   {
-    "id": 1983,
+    "id": 1871,
     "name": "Angelic Grace",
     "description": "Skill Card that bestows Angelic Grace.",
     "type": 14,
     "is_debug": true
   },
   {
-    "id": 1984,
+    "id": 1872,
     "name": "Fire Boost",
     "description": "Skill Card that bestows Fire Boost.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1985,
+    "id": 1873,
     "name": "Fire Amp",
     "description": "Skill Card that bestows Fire Amp.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1986,
+    "id": 1874,
     "name": "Ice Boost",
     "description": "Skill Card that bestows Ice Boost.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1987,
+    "id": 1875,
     "name": "Ice Amp",
     "description": "Skill Card that bestows Ice Amp.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1988,
+    "id": 1876,
     "name": "Elec Boost",
     "description": "Skill Card that bestows Elec Boost.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1989,
+    "id": 1877,
     "name": "Elec Amp",
     "description": "Skill Card that bestows Elec Amp.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1990,
+    "id": 1878,
     "name": "Wind Boost",
     "description": "Skill Card that bestows Wind Boost.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1991,
+    "id": 1879,
     "name": "Wind Amp",
     "description": "Skill Card that bestows Wind Amp.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1992,
+    "id": 1880,
     "name": "Fast Retreat",
     "description": "Skill Card that bestows Fast Retreat.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 1993,
+    "id": 1881,
     "name": "Blank",
     "description": "Skill Card that bestows .",
     "type": 14,
     "is_debug": true
   },
   {
-    "id": 1994,
+    "id": 1882,
     "name": "BLANK",
     "description": "Skill Card that bestows .",
     "type": 14,
     "is_debug": true
   },
   {
-    "id": 1995,
+    "id": 1883,
     "name": "BLANK",
     "description": "Skill Card that bestows .",
     "type": 14,
     "is_debug": true
   },
   {
-    "id": 1996,
+    "id": 1884,
     "name": "BLANK",
     "description": "Skill Card that bestows .",
     "type": 14,
     "is_debug": true
   },
   {
-    "id": 1997,
+    "id": 1885,
     "name": "BLANK",
     "description": "Skill Card that bestows .",
     "type": 14,
     "is_debug": true
   },
   {
-    "id": 1998,
+    "id": 1886,
     "name": "BLANK",
     "description": "Skill Card that bestows .",
     "type": 14,
     "is_debug": true
   },
   {
-    "id": 1999,
+    "id": 1887,
     "name": "Raging Tiger",
     "description": "Skill Card that bestows Raging Tiger.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 2000,
+    "id": 1888,
     "name": "Counter",
     "description": "Skill Card that bestows Counter.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 2001,
+    "id": 1889,
     "name": "Counterstrike",
     "description": "Skill Card that bestows Counterstrike.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 2002,
+    "id": 1890,
     "name": "High Counter",
     "description": "Skill Card that bestows High Counter.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 2003,
+    "id": 1891,
     "name": "Regenerate 1",
     "description": "Skill Card that bestows Regenerate 1.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 2004,
+    "id": 1892,
     "name": "Regenerate 2",
     "description": "Skill Card that bestows Regenerate 2.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 2005,
+    "id": 1893,
     "name": "Regenerate 3",
     "description": "Skill Card that bestows Regenerate 3.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 2006,
+    "id": 1894,
     "name": "Invigorate 1",
     "description": "Skill Card that bestows Invigorate 1.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 2007,
+    "id": 1895,
     "name": "Invigorate 2",
     "description": "Skill Card that bestows Invigorate 2.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 2008,
+    "id": 1896,
     "name": "Invigorate 3",
     "description": "Skill Card that bestows Invigorate 3.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 2009,
+    "id": 1897,
     "name": "Growth 1",
     "description": "Skill Card that bestows Growth 1.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 2010,
+    "id": 1898,
     "name": "Growth 2",
     "description": "Skill Card that bestows Growth 2.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 2011,
+    "id": 1899,
     "name": "Growth 3",
     "description": "Skill Card that bestows Growth 3.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 2012,
+    "id": 1900,
     "name": "Auto-Tarukaja",
     "description": "Skill Card that bestows Auto-Tarukaja.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 2013,
+    "id": 1901,
     "name": "Auto-Rakukaja",
     "description": "Skill Card that bestows Auto-Rakukaja.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 2014,
+    "id": 1902,
     "name": "Auto-Sukukaja",
     "description": "Skill Card that bestows Auto-Sukukaja.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 2015,
+    "id": 1903,
     "name": "Alertness",
     "description": "Skill Card that bestows Alertness.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 2016,
+    "id": 1904,
     "name": "Sharp Student",
     "description": "Skill Card that bestows Sharp Student.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 2017,
+    "id": 1905,
     "name": "Apt Pupil",
     "description": "Skill Card that bestows Apt Pupil.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 2018,
+    "id": 1906,
     "name": "Ali Dance",
     "description": "Skill Card that bestows Ali Dance.",
     "type": 14,
     "is_debug": true
   },
   {
-    "id": 2019,
+    "id": 1907,
     "name": "Firm Stance",
     "description": "Skill Card that bestows Firm Stance.",
     "type": 14,
     "is_debug": true
   },
   {
-    "id": 2020,
+    "id": 1908,
     "name": "Spell Master",
     "description": "Skill Card that bestows Spell Master.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 2021,
+    "id": 1909,
     "name": "Arms Master",
     "description": "Skill Card that bestows Arms Master.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 2022,
+    "id": 1910,
     "name": "BLANK",
     "description": "Skill Card that bestows .",
     "type": 14,
     "is_debug": true
   },
   {
-    "id": 2023,
+    "id": 1911,
     "name": "BLANK",
     "description": "Skill Card that bestows .",
     "type": 14,
     "is_debug": true
   },
   {
-    "id": 2024,
+    "id": 1912,
     "name": "Divine Grace",
     "description": "Skill Card that bestows Divine Grace.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 2025,
+    "id": 1913,
     "name": "Endure",
     "description": "Skill Card that bestows Endure.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 2026,
+    "id": 1914,
     "name": "Enduring Soul",
     "description": "Skill Card that bestows Enduring Soul.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 2027,
+    "id": 1915,
     "name": "Survive Light",
     "description": "Skill Card that bestows Survive Light.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 2028,
+    "id": 1916,
     "name": "Survive Dark",
     "description": "Skill Card that bestows Survive Dark.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 2029,
+    "id": 1917,
     "name": "Auto-Maraku",
     "description": "Skill Card that bestows Auto-Maraku.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 2030,
+    "id": 1918,
     "name": "Auto-Mataru",
     "description": "Skill Card that bestows Auto-Mataru.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 2031,
+    "id": 1919,
     "name": "Auto-Masuku",
     "description": "Skill Card that bestows Auto-Masuku.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 2032,
+    "id": 1920,
     "name": "Charm Boost",
     "description": "Skill Card that bestows Charm Boost.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 2033,
+    "id": 1921,
     "name": "Poison Boost",
     "description": "Skill Card that bestows Poison Boost.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 2034,
+    "id": 1922,
     "name": "Distress Boost",
     "description": "Skill Card that bestows Distress Boost.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 2035,
+    "id": 1923,
     "name": "Panic Boost",
     "description": "Skill Card that bestows Panic Boost.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 2036,
+    "id": 1924,
     "name": "Fear Boost",
     "description": "Skill Card that bestows Fear Boost.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 2037,
+    "id": 1925,
     "name": "Rage Boost",
     "description": "Skill Card that bestows Rage Boost.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 2038,
+    "id": 1926,
     "name": "Ailment Boost",
     "description": "Skill Card that bestows Ailment Boost.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 2039,
+    "id": 1927,
     "name": "Hama Boost",
     "description": "Skill Card that bestows Hama Boost.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 2040,
+    "id": 1928,
     "name": "Mudo Boost",
     "description": "Skill Card that bestows Mudo Boost.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 2041,
+    "id": 1929,
     "name": "Endure Light",
     "description": "Skill Card that bestows Endure Light.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 2042,
+    "id": 1930,
     "name": "Endure Dark",
     "description": "Skill Card that bestows Endure Dark.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 2043,
+    "id": 1931,
     "name": "Phys Boost",
     "description": "Skill Card that bestows Phys Boost.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 2044,
+    "id": 1932,
     "name": "Cool Breeze",
     "description": "Skill Card that bestows Cool Breeze.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 2045,
+    "id": 1933,
     "name": "Victory Cry",
     "description": "Skill Card that bestows Victory Cry.",
     "type": 14,
     "is_debug": false
   },
   {
-    "id": 2046,
+    "id": 1934,
     "name": "BLANK",
     "description": "Skill Card that bestows .",
     "type": 14,
     "is_debug": true
   },
   {
-    "id": 2047,
+    "id": 1935,
     "name": "Reserve",
     "description": "リザーブ",
     "type": 14,
