@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.19)
-project(P3P_Save_Editor LANGUAGES CXX)
+project(P3P_Save_Editor VERSION 1.0.0 LANGUAGES CXX)
 
 if(CMAKE_CXX_COMPILER_ID MATCHES "GNU|Clang")
     add_compile_options(-Wall -Wextra -Wpedantic -Wsign-compare -Wconversion -Wshadow -Wuseless-cast)
@@ -55,6 +55,11 @@ target_include_directories(P3P_Save_Editor
     PRIVATE
     ${CMAKE_CURRENT_SOURCE_DIR}/src
     ${CMAKE_CURRENT_SOURCE_DIR}/third_party
+)
+
+target_compile_definitions(P3P_Save_Editor PRIVATE
+    APP_VERSION="${PROJECT_VERSION}"
+    APP_NAME="P3P Save Editor"
 )
 
 qt_add_resources(P3P_Save_Editor "app_resources"
