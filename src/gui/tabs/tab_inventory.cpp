@@ -194,7 +194,7 @@ void TabInventory::add_item_to_inventory(std::uint16_t item_id)
         ui->inventory_tbl->selectRow(row);
     } else {
         const int row = find_inventory_row(item_id);
-        if (row > 0)
+        if (row > -1)
             ui->inventory_tbl->selectRow(row);
     }
     return;
