@@ -59,6 +59,28 @@ TabCompendium::~TabCompendium()
     delete ui;
 }
 
+void TabCompendium::add_row_compendium(const Persona &persona)
+{
+    const int row = ui->compendium_tbl->rowCount();
+    ui->compendium_tbl->insertRow(row);
+    const Arcana &arcana = ArcanaRepository::instance().get_by_id(persona.arcana);
+
+    ui->compendium_tbl->setItem(row,
+                                0,
+                                create_item(QString::fromStdString(arcana.name), persona.id, false));
+
+    ui->compendium_tbl
+        ->setItem(row, 1, create_item(QString::fromStdString(persona.name), persona.id, false));
+
+    ui->compendium_tbl->setItem(row, 2, create_item(persona.level, persona.id));
+    ui->compendium_tbl->setItem(row, 3, create_item(persona.total_xp, persona.id));
+    ui->compendium_tbl->setItem(row, 4, create_item(persona.st, persona.id));
+    ui->compendium_tbl->setItem(row, 5, create_item(persona.ma, persona.id));
+    ui->compendium_tbl->setItem(row, 6, create_item(persona.en, persona.id));
+    ui->compendium_tbl->setItem(row, 7, create_item(persona.ag, persona.id));
+    ui->compendium_tbl->setItem(row, 8, create_item(persona.lu, persona.id));
+}
+
 void TabCompendium::load_save_data(SaveData *save)
 {
     save_data_ = save;
@@ -66,46 +88,18 @@ void TabCompendium::load_save_data(SaveData *save)
         return;
     };
 
-    std::vector<Persona *> registered_personas;
-    registered_personas.reserve(save_data_->compendium.size());
-    for (Persona &persona : save_data_->compendium) {
-        if (persona.id != 0) {
-            registered_personas.push_back(&persona);
-        }
-    }
-
-    const int registered_count = static_cast<int>(registered_personas.size());
-
     ui->compendium_tbl->setUpdatesEnabled(false);
     ui->compendium_tbl->setSortingEnabled(false);
     ui->compendium_tbl->clearContents();
-    ui->compendium_tbl->setRowCount(registered_count);
+    ui->compendium_tbl->setRowCount(0);
 
     {
         const QSignalBlocker table_block(ui->compendium_tbl);
-        for (int i = 0; i < registered_count; ++i) {
-            const Persona *persona = registered_personas[i];
-            const Arcana &arcana = ArcanaRepository::instance().get_by_id(persona->arcana);
-
-            ui->compendium_tbl->setItem(i,
-                                        0,
-                                        create_item(QString::fromStdString(arcana.name),
-                                                    persona->id,
-                                                    false));
-
-            ui->compendium_tbl->setItem(i,
-                                        1,
-                                        create_item(QString::fromStdString(persona->name),
-                                                    persona->id,
-                                                    false));
-
-            ui->compendium_tbl->setItem(i, 2, create_item(persona->level, persona->id));
-            ui->compendium_tbl->setItem(i, 3, create_item(persona->total_xp, persona->id));
-            ui->compendium_tbl->setItem(i, 4, create_item(persona->st, persona->id));
-            ui->compendium_tbl->setItem(i, 5, create_item(persona->ma, persona->id));
-            ui->compendium_tbl->setItem(i, 6, create_item(persona->en, persona->id));
-            ui->compendium_tbl->setItem(i, 7, create_item(persona->ag, persona->id));
-            ui->compendium_tbl->setItem(i, 8, create_item(persona->lu, persona->id));
+        for (std::size_t i = 0; i < save_data_->compendium.size(); ++i) {
+            const Persona &persona = save_data_->compendium[i];
+            if (persona.id != 0) {
+                add_row_compendium(persona);
+            }
         }
     }
 
@@ -150,19 +144,43 @@ void TabCompendium::populate_skill_combos()
     }
 }
 
+void TabCompendium::add_persona_compendium(std::uint16_t persona_id)
+{
+    if (save_data_->compendium[persona_id - 1].id == 0) {
+        const QSignalBlocker compendium_block(ui->compendium_tbl);
+        ui->compendium_tbl->setUpdatesEnabled(false);
+        ui->compendium_tbl->setSortingEnabled(false);
+
+        const Persona &persona = PersonaRepository::instance().get_by_id(persona_id);
+        save_data_->compendium[persona_id - 1] = persona;
+        add_row_compendium(persona);
+
+        ui->compendium_tbl->setUpdatesEnabled(true);
+        ui->compendium_tbl->setSortingEnabled(true);
+        const int row = find_compendium_row(persona_id);
+        ui->compendium_tbl->selectRow(row);
+    } else {
+        const int row = find_compendium_row(persona_id);
+        if (row > 0)
+            ui->compendium_tbl->selectRow(row);
+    }
+    return;
+}
+
 void TabCompendium::on_persona_add_btn_clicked()
 {
     const int idx = ui->persona_cmb->findText(ui->persona_cmb->currentText().trimmed(),
                                               Qt::MatchExactly);
-    const std::uint16_t id = (idx > 0) ? static_cast<std::uint16_t>(
-                                             ui->persona_cmb->itemData(idx).toUInt())
-                                       : 0;
-    if (id == 0) {
+    const std::uint16_t persona_id = (idx > 0) ? static_cast<std::uint16_t>(
+                                                     ui->persona_cmb->itemData(idx).toUInt())
+                                               : 0;
+    if (persona_id == 0) {
         QMessageBox::warning(this,
                              "Invalid Selection",
                              "Please select a valid Persona to add to the Compendium.");
         return;
     }
+    add_persona_compendium(persona_id);
 }
 
 void TabCompendium::configure_ui()
@@ -311,4 +329,15 @@ void TabCompendium::on_compendium_tbl_itemChanged(QTableWidgetItem *item)
     default:
         break;
     }
+}
+
+int TabCompendium::find_compendium_row(std::uint16_t persona_id) const
+{
+    const int col = 1;
+    for (int row = 0; row < ui->compendium_tbl->rowCount(); ++row) {
+        QTableWidgetItem *cell = ui->compendium_tbl->item(row, col);
+        if (cell && cell->data(Qt::UserRole).toUInt() == persona_id)
+            return row;
+    }
+    return -1;
 }

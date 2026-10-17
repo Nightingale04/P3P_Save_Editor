@@ -3,7 +3,6 @@
 #include "gui/delegates/spin_box_delegate.h"
 #include "models/item.h"
 #include "ui_tab_inventory.h"
-#include <iostream>
 
 TabInventory::TabInventory(QWidget *parent)
     : QWidget(parent)

@@ -235,7 +235,6 @@ void TabCharacter::on_persona_lv_spin_valueChanged(int arg1)
     const int persona_idx = ui->persona_cmb->currentIndex();
     Persona &persona = save_data_->active_personas[persona_idx];
 
-    std::cerr << static_cast<int>(persona_level);
     const std::uint32_t persona_xp = ThresholdRepository::instance()
                                          .get_xp_by_level(persona.base_level, persona_level);
     persona.level = persona_level;
