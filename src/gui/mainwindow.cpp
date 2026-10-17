@@ -1,4 +1,5 @@
 #include "mainwindow.h"
+#include <QCryptographicHash>
 #include <QDragEnterEvent>
 #include <QFileDialog>
 #include <QFileInfo>
@@ -114,20 +115,42 @@ void MainWindow::load_save_file(const QString &save_path, bool is_pc_save)
 
 void MainWindow::write_save()
 {
+    if (!current_save_.has_value()) {
+        return;
+    }
+    std::filesystem::path slot_path = current_save_->file_path;
+    slot_path += "slot";
     if (current_save_->is_pc_save) {
-        std::filesystem::path slot_path = current_save_->file_path;
-        slot_path += "slot";
         if (!std::filesystem::exists(slot_path)) {
             auto choice = QMessageBox::warning(this,
                                                "Missing .BINslot file",
                                                "Without the .BINslot file the MD5 hash can't be "
-                                               "updated and the game will reject the save.\n\n"
-                                               "Save anyway (unusable by the game)?",
+                                               "updated and the game might reject the save.\n\n"
+                                               "Save anyway?",
                                                QMessageBox::Save | QMessageBox::Cancel);
             if (choice == QMessageBox::Cancel)
                 return;
         }
     }
+    if (!save_file_handler::write_save_file(*current_save_)) {
+        QMessageBox::critical(this, "Error", "There was an error trying to write the save file.");
+        return;
+    }
+
+    if (current_save_->is_pc_save) {
+        std::uint8_t *raw = current_save_->raw_buffer.data();
+        std::vector<std::uint8_t> md5(QCryptographicHash::hashLength(QCryptographicHash::Md5));
+        QCryptographicHash::hashInto(QSpan<std::byte>(reinterpret_cast<std::byte *>(md5.data()),
+                                                      md5.size()),
+                                     QByteArrayView(reinterpret_cast<const char *>(raw),
+                                                    qsizetype(current_save_->raw_buffer.size())),
+                                     QCryptographicHash::Md5);
+        if (!save_file_handler::write_bin_slot(slot_path, md5)) {
+            QMessageBox::critical(this, "Error", "Failed to update the .BINslot file.");
+            return;
+        }
+    }
+    QMessageBox::information(this, "Success", "Changes saved successfully.");
 }
 
 void MainWindow::populate_tabs()
@@ -144,12 +167,5 @@ void MainWindow::populate_tabs()
 
 void MainWindow::on_actionSave_triggered()
 {
-    if (!current_save_.has_value()) {
-        return;
-    }
-    if (save_file_handler::write_save_file(*current_save_)) {
-        QMessageBox::information(this, "Success", "Changes saved successfully.");
-    } else {
-        QMessageBox::critical(this, "Error", "There was an error trying to save the changes.");
-    }
+    write_save();
 }

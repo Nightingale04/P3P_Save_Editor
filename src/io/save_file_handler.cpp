@@ -15,6 +15,7 @@ constexpr std::size_t OFFSET_INVENTORY = 0x4F0;
 constexpr std::size_t OFFSET_SLOTS = 0x10CC;
 constexpr std::size_t OFFSET_COMPENDIUM = 0x1378;
 constexpr std::size_t OFFSET_YEN = 0x4A14;
+constexpr std::size_t OFFSET_MD5_BINSLOT = 0x18;
 
 constexpr std::size_t PADDING_PERSONA = 20;
 constexpr std::size_t SIZE_PERSONA = 52;
@@ -124,6 +125,7 @@ std::optional<SaveData> read_save_file(const std::filesystem::path &filepath)
     save.raw_buffer.resize(static_cast<std::size_t>(file_length));
     file.seekg(0, std::ios::beg);
     file.read(reinterpret_cast<char *>(save.raw_buffer.data()), file_length);
+    file.close();
 
     const std::uint8_t *raw = save.raw_buffer.data();
     save.firstname = (raw[OFFSET_MC_FIRSTNAME] == 0x80)
@@ -199,5 +201,28 @@ bool write_save_file(SaveData &save_data)
 
     file.write(reinterpret_cast<const char *>(raw), save_data.raw_buffer.size());
     return file.good();
+}
+
+bool write_bin_slot(const std::filesystem::path &filepath, std::vector<std::uint8_t> md5)
+{
+    std::ifstream input_file(filepath, std::ios::binary | std::ios::ate);
+    if (!input_file.is_open()) {
+        return false;
+    }
+    const std::size_t file_length = static_cast<size_t>(input_file.tellg());
+    std::vector<std::uint8_t> raw_buffer(file_length);
+
+    input_file.seekg(0, std::ios::beg);
+    input_file.read(reinterpret_cast<char *>(raw_buffer.data()), file_length);
+    input_file.close();
+
+    std::uint8_t *raw = raw_buffer.data();
+    std::memcpy(raw + OFFSET_MD5_BINSLOT, md5.data(), md5.size());
+    std::ofstream output_file(filepath, std::ios::binary | std::ios::trunc);
+    if (!output_file.is_open()) {
+        return false;
+    }
+    output_file.write(reinterpret_cast<const char *>(raw), raw_buffer.size());
+    return output_file.good();
 }
 } // namespace save_file_handler
