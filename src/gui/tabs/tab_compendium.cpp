@@ -1,5 +1,6 @@
 #include "tab_compendium.h"
 #include <QCompleter>
+#include <QMenu>
 #include <QMessageBox>
 #include "data/arcana_repository.h"
 #include "data/persona_repository.h"
@@ -340,4 +341,21 @@ int TabCompendium::find_compendium_row(std::uint16_t persona_id) const
             return row;
     }
     return -1;
+}
+void TabCompendium::on_compendium_tbl_customContextMenuRequested(const QPoint &pos)
+{
+    QTableWidgetItem *cell = ui->compendium_tbl->itemAt(pos);
+    if (!cell)
+        return;
+
+    QMenu menu(this);
+    QAction *removeAction = menu.addAction(tr("Remove persona"));
+
+    if (menu.exec(ui->compendium_tbl->viewport()->mapToGlobal(pos)) == removeAction) {
+        const std::uint16_t persona_id = static_cast<std::uint16_t>(
+            cell->data(Qt::UserRole).toUInt());
+        save_data_->compendium[persona_id - 1].id = 0;
+        save_data_->compendium[persona_id - 1].flag = 0;
+        ui->compendium_tbl->removeRow(cell->row());
+    }
 }

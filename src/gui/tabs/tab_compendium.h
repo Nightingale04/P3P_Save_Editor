@@ -25,6 +25,8 @@ private slots:
 
     void on_compendium_tbl_itemChanged(QTableWidgetItem *item);
 
+    void on_compendium_tbl_customContextMenuRequested(const QPoint &pos);
+
 private:
     Ui::TabCompendium *ui;
     SaveData *save_data_ = nullptr;
