@@ -154,7 +154,10 @@ void TabCompendium::add_persona_compendium(std::uint16_t persona_id)
 
         const Persona &persona = PersonaRepository::instance().get_by_id(persona_id);
         save_data_->compendium[persona_id - 1] = persona;
-        add_row_compendium(persona);
+        save_data_->compendium[persona_id - 1].total_xp = ThresholdRepository::instance()
+                                                              .get_xp_by_level(persona.base_level,
+                                                                               persona.base_level);
+        add_row_compendium(save_data_->compendium[persona_id - 1]);
 
         ui->compendium_tbl->setUpdatesEnabled(true);
         ui->compendium_tbl->setSortingEnabled(true);
@@ -162,7 +165,7 @@ void TabCompendium::add_persona_compendium(std::uint16_t persona_id)
         ui->compendium_tbl->selectRow(row);
     } else {
         const int row = find_compendium_row(persona_id);
-        if (row > 0)
+        if (row > -1)
             ui->compendium_tbl->selectRow(row);
     }
     return;
