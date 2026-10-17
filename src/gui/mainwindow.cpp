@@ -33,7 +33,8 @@ MainWindow::MainWindow(QWidget *parent)
     connect(aboutAction, &QAction::triggered, this, &MainWindow::show_about);
     ui->menubar->addAction(aboutAction);
 
-    ui->tabWidget->setEnabled(true);
+    ui->tabWidget->setEnabled(false);
+    ui->actionSave->setEnabled(false);
 }
 
 MainWindow::~MainWindow()
@@ -112,6 +113,7 @@ void MainWindow::load_save_file(const QString &save_path, bool is_pc_save)
         current_save_->is_pc_save = is_pc_save;
         populate_tabs();
         ui->tabWidget->setEnabled(true);
+        ui->actionSave->setEnabled(true);
     } else {
         QMessageBox::critical(this, "Error", "Save file couldn't be loaded");
     }
