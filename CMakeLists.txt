@@ -1,10 +1,6 @@
 cmake_minimum_required(VERSION 3.19)
 project(P3P_Save_Editor VERSION 1.0.0 LANGUAGES CXX)
 
-if(WIN32)
-    enable_language(RC)
-endif()
-
 if(CMAKE_CXX_COMPILER_ID MATCHES "GNU|Clang")
     add_compile_options(-Wall -Wextra -Wpedantic -Wsign-compare -Wconversion -Wshadow -Wuseless-cast)
 endif()
@@ -49,10 +45,9 @@ qt_add_executable(P3P_Save_Editor
 )
 
 if(WIN32)
-    set_target_properties(P3P_Save_Editor PROPERTIES
-        QT_TARGET_VERSION "1.0.0.0"
-        QT_TARGET_RC_ICONS "${CMAKE_CURRENT_SOURCE_DIR}/resources/p3p_save.ico"
-    )
+    enable_language(RC)
+    set(app_icon_resource_windows "${CMAKE_CURRENT_SOURCE_DIR}/resources/p3p_save_editor.rc")
+    target_sources(P3P_Save_Editor PRIVATE ${app_icon_resource_windows})
 endif()
 
 target_include_directories(P3P_Save_Editor
