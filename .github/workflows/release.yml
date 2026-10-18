@@ -65,10 +65,6 @@ jobs:
             --plugin qt \
             --output appimage
 
-      - name: Package tarball (Linux)
-        if: runner.os == 'Linux'
-        run: tar -czf P3P_Save_Editor-linux-x64.tar.gz -C dist .
-
       - name: Upload artifacts (Linux)
         if: runner.os == 'Linux'
         uses: actions/upload-artifact@v4
@@ -76,7 +72,6 @@ jobs:
           name: linux
           path: |
             P3P_Save_Editor-linux-x64.AppImage
-            P3P_Save_Editor-linux-x64.tar.gz
 
   release:
     if: startsWith(github.ref, 'refs/tags/')
