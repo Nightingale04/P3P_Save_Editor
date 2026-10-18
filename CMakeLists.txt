@@ -89,5 +89,6 @@ qt_generate_deploy_app_script(
     TARGET P3P_Save_Editor
     OUTPUT_SCRIPT deploy_script
     NO_UNSUPPORTED_PLATFORM_ERROR
+    NO_TRANSLATIONS
 )
 install(SCRIPT ${deploy_script})
