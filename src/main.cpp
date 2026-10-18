@@ -21,6 +21,7 @@ bool load_all_databases()
 int main(int argc, char *argv[])
 {
     QApplication a(argc, argv);
+    a.setDesktopFileName("p3p_save_editor");
     QCoreApplication::setApplicationName(QStringLiteral(APP_NAME));
     QCoreApplication::setApplicationVersion(QStringLiteral(APP_VERSION));
     a.setWindowIcon(QIcon(":/resources/p3p_save.svg"));
