@@ -56,7 +56,7 @@ jobs:
         if: runner.os == 'Linux'
         env:
           OUTPUT: P3P_Save_Editor-linux-x64.AppImage
-          EXTRA_PLATFORM_PLUGINS: "libqwayland-generic.so"
+          EXTRA_PLATFORM_PLUGINS: "libqwayland.so"
         run: |
           ./linuxdeploy-x86_64.AppImage \
             --appdir AppDir \
@@ -92,7 +92,12 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          gh release create "$GITHUB_REF_NAME" \
-            --title "P3P Save Editor $GITHUB_REF_NAME" \
-            --generate-notes \
-            artifacts/*
+          if gh release view "$GITHUB_REF_NAME" >/dev/null 2>&1; then
+            gh release upload "$GITHUB_REF_NAME" artifacts/* --clobber
+          else
+            gh release create "$GITHUB_REF_NAME" \
+              --title "P3P Save Editor $GITHUB_REF_NAME" \
+              --generate-notes \
+              --draft \
+              artifacts/*
+          fi
