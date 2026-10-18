@@ -1,6 +1,10 @@
 cmake_minimum_required(VERSION 3.19)
 project(P3P_Save_Editor VERSION 1.0.0 LANGUAGES CXX)
 
+if(WIN32)
+    enable_language(RC)
+endif()
+
 if(CMAKE_CXX_COMPILER_ID MATCHES "GNU|Clang")
     add_compile_options(-Wall -Wextra -Wpedantic -Wsign-compare -Wconversion -Wshadow -Wuseless-cast)
 endif()
