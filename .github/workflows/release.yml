@@ -33,10 +33,18 @@ jobs:
       - name: Install + deploy
         run: cmake --install build --config Release
 
+      - name: Trim unused Qt DLLs
+        if: runner.os == 'Windows'
+        shell: pwsh
+        run: |
+          Remove-Item dist/bin/opengl32sw.dll, dist/bin/D3Dcompiler_47.dll, dist/bin/Qt6Network.dll
+          Remove-Item dist/plugins/generic/qtuiotouchplugin.dll -ErrorAction SilentlyContinue
+          Remove-Item dist/plugins/networkinformation, dist/plugins/tls -Recurse -ErrorAction SilentlyContinue
+
       - name: Package (Windows)
         if: runner.os == 'Windows'
         shell: pwsh
-        run: Compress-Archive dist/bin/* P3P_Save_Editor-windows-x64.zip
+        run: Compress-Archive dist/* P3P_Save_Editor-windows-x64.zip
 
       - name: Upload artifact (Windows)
         if: runner.os == 'Windows'
